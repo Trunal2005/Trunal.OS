@@ -1,0 +1,13 @@
+{
+  "at": "2026-11-05T11:18:27.919Z",
+  "source": "5529bf987591c7c52702854544c54d78b3ed9cbf",
+  "capture": "Unmodified disposable Flask source; no .env copied; keys cleared; dotenv disabled",
+  "fixture": "Synthetic Demo Candidate; no personal data",
+  "requests": [
+    "http://127.0.0.1:5331/",
+    "http://127.0.0.1:5331/"
+  ],
+  "blocked": [],
+  "result": "Analysis Result\nError: Google API Key is missing. Please provide it in the form or configure it in the .env file.",
+  "publicAsset": "Upload/JD form only; no successful model output is claimed"
+}

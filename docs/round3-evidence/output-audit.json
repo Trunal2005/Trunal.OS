@@ -1,0 +1,20 @@
+{
+  "at": "2026-11-05T10:34:41.324Z",
+  "status": "PASS",
+  "scope": "Pattern scan of static output; not a complete security audit. No PDF/phone-contact/recognizable credential patterns or remote HTML script/font resource elements. Runtime network checked separately in browser suite.",
+  "files": [
+    "dist\\assets\\index-DkrwqIJu.css",
+    "dist\\assets\\index-ZOWH1j-d.js",
+    "dist\\assets\\WorldCanvas-DOfSYP7Q.js",
+    "dist\\favicon.svg",
+    "dist\\index.html",
+    "dist\\og.png",
+    "dist\\og.svg",
+    "dist\\robots.txt"
+  ],
+  "findings": [],
+  "preservedHashes": {
+    "src/content/projects.ts": "3f9dfbae3cf42333a7baca35cde888c29d591a1aea01f156f30d4674a59fc2b6",
+    "src/data/prs.generated.json": "a2c570e5cf1a354f165c43475b899081fa9d9c961d7464c1d8249ca89ee3dbf4"
+  }
+}

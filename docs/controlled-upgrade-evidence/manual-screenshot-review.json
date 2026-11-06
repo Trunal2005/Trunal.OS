@@ -1,0 +1,52 @@
+{
+  "at": "2026-11-05T15:45:49.972Z",
+  "method": "Opened actual saved production Chrome PNGs with the image viewer; no generated site mockups",
+  "reviewed": [
+    "before-projects",
+    "before-contact",
+    "before-achievements",
+    "before-mobile",
+    "after-projects",
+    "after-all-projects",
+    "after-case-anumitra",
+    "after-case-blue-cred",
+    "after-case-bi",
+    "after-case-recovery",
+    "after-case-cybertwin",
+    "after-case-resume",
+    "after-anumitra-fullscreen",
+    "after-fullscreen-gallery",
+    "after-quick-facts",
+    "after-resume-missing",
+    "after-experience",
+    "after-achievements",
+    "after-contact",
+    "after-about-story",
+    "after-secondary-work",
+    "after-projects-390",
+    "after-projects-320",
+    "after-phone-gallery-390",
+    "after-phone-gallery-844",
+    "after-text200-projects",
+    "after-text200-contact",
+    "after-sticky-close-1440",
+    "after-sticky-close-390",
+    "fixture-resume-1440-default",
+    "fixture-resume-1440-fallback",
+    "fixture-resume-390-default"
+  ],
+  "observations": [
+    "Owner Anumitra and ABI homepages lead their galleries; all six case heroes are actual UI",
+    "Original long dashboards remain uncropped and letterboxed; 100% view provides readable native-resolution pan",
+    "Normal campus composition retained; seven districts and physical controls remain",
+    "200% text uses wrapping navigation and measured reserved height; content stays scrollable",
+    "Deep-scroll case Close remains visible on desktop and phone",
+    "Native PDF fixture visibly renders TEST FIXTURE - NOT OWNER RESUME; fallback/mobile controls visible",
+    "Missing public résumé is an inactive coming-soon state without any PDF request"
+  ],
+  "limits": [
+    "Owner visual acceptance pending",
+    "Physical mobile hardware and screen reader testing not performed",
+    "200% test doubles computed font sizes at fixed viewport; browser toolbar zoom not separately certified"
+  ]
+}

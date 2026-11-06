@@ -1,0 +1,49 @@
+[
+  {
+    "label": "old-portfolio",
+    "status": 200,
+    "text": "Trunal Patil  \n| Full Stack Developer\n\nAbout\nWork\nContact\nHi, I'm Trunal Patil\n\nFull Stack Developer passionate about\nAI, Machine Learning and Data Analytics.\n\nOpen to opportunities\n \n\nINTRODUCTION\n\nOverview.\n\nI am a Computer Engineering student and Full Stack Developer passionate about building intelligent web applications. My interests lie in combining web development with Artificial Intelligence, Machine Learning, and Data Analytics to create impactful solutions.\n\nI enjoy working with technologies like Python, JavaScript, React, and SQL while building projects that solve real-world problems. I am also a Co-Founder at Nitrix Talent Media, where I work on data-driven strategies and digital solutions.\n\nFull Stack Developer\nAI / ML Enthusiast\nData Analytics\nCo-Founder | Nitrix Talent Media\n \n\nWHAT I HAVE DONE SO FAR\n\nWork Experience.\nCo-Founder\n\nNitrix Talent Media\n\nCo-founded Nitrix Talent Media focusing on digital campaigns and analytics.\nWorked on data-driven campaign strategies and audience insights.\nAnalyzed engagement metrics to improve content reach and growth.\nManaged technical aspects of digital platforms and campaign tracking.\nMar 2025 – Present\n \n \n\nMY WORK\n\nProjects.\n\nFollowing projects showcases my skills and experience through real-world examples of my work. Each project is briefly described with links to code repositories and live demos in it. It reflects my ability to solve complex problems, work with different technologies, and manage projects effectively.\n\nAI Resume Analyzer\n\nAn AI-powered web application that analyzes resumes against job descriptions and generates compatibility scores and improvement suggestions using Gemini AI.\n\n#python\n\n#flask\n\n#ai\n\n#gemini\n\nNetflix UI Clone\n\nA responsive frontend clone of the Netflix landing page built using HTML and CSS. The project replicates the visual layout and design of Netflix while focusing on responsive UI and layout accuracy.\n\n#html\n\n#css\n\n#frontend\n\nAI Revenue Recovery\n\nAn AI-powered revenue recovery platform that detects failed payments, analyzes recovery opportunities, and orchestrates automated recovery actions through an intelligent operations dashboard.\n\n#nextjs\n\n#typescript\n\n#sqlite\n\n#vitest\n\n \n\nWHAT OTHERS SAY\n\nTestimonials.\n \n\nGET IN TOUCH\n\nContact.\nYour Name\nYour email\nYour Message\nSend",
+    "links": [
+      {
+        "text": "Trunal Patil   | Full Stack Developer",
+        "url": "https://portfolio-lyart-eight-70.vercel.app/"
+      },
+      {
+        "text": "About",
+        "url": "https://portfolio-lyart-eight-70.vercel.app/#about"
+      },
+      {
+        "text": "Work",
+        "url": "https://portfolio-lyart-eight-70.vercel.app/#work"
+      },
+      {
+        "text": "Contact",
+        "url": "https://portfolio-lyart-eight-70.vercel.app/#contact"
+      },
+      {
+        "text": "About",
+        "url": "https://portfolio-lyart-eight-70.vercel.app/#about"
+      },
+      {
+        "text": "Work",
+        "url": "https://portfolio-lyart-eight-70.vercel.app/#work"
+      },
+      {
+        "text": "Contact",
+        "url": "https://portfolio-lyart-eight-70.vercel.app/#contact"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "status": 200,
+    "text": "Loading a 3D scene...\n\n81%",
+    "links": []
+  },
+  {
+    "label": "article",
+    "status": 403,
+    "text": "Checking your connection\n\nThis takes a few seconds. You'll be on Codrops right after.\n\nRay ID a55adf21d95eb8bf · 157.119.45.151",
+    "links": []
+  }
+]

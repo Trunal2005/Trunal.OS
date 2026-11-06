@@ -1,0 +1,79 @@
+[
+  {
+    "scenario": "desktop-3d",
+    "mobileThrottle": null,
+    "worldReadyMs": 1851,
+    "lcp": 604,
+    "cls": 0,
+    "transferBytes": 351627,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:4173/assets/index-BVaMW9Gt.js",
+        "bytes": 84353
+      },
+      {
+        "name": "http://127.0.0.1:4173/assets/index-DDTirIog.css",
+        "bytes": 10848
+      },
+      {
+        "name": "http://127.0.0.1:4173/assets/WorldCanvas-CQtJnQTF.js",
+        "bytes": 255952
+      },
+      {
+        "name": "http://127.0.0.1:4173/favicon.svg",
+        "bytes": 474
+      }
+    ],
+    "mode": "os-shell  mode-3d"
+  },
+  {
+    "scenario": "mobile-3d",
+    "mobileThrottle": "4x CPU, 150ms latency, 200000 B/s download",
+    "worldReadyMs": 4274,
+    "lcp": 1252,
+    "cls": 0,
+    "transferBytes": 351627,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:4173/assets/index-BVaMW9Gt.js",
+        "bytes": 84353
+      },
+      {
+        "name": "http://127.0.0.1:4173/assets/index-DDTirIog.css",
+        "bytes": 10848
+      },
+      {
+        "name": "http://127.0.0.1:4173/assets/WorldCanvas-CQtJnQTF.js",
+        "bytes": 255952
+      },
+      {
+        "name": "http://127.0.0.1:4173/favicon.svg",
+        "bytes": 474
+      }
+    ],
+    "mode": "os-shell  mode-3d"
+  },
+  {
+    "scenario": "data-saver-2d",
+    "mobileThrottle": null,
+    "worldReadyMs": 721,
+    "lcp": 264,
+    "cls": 0,
+    "transferBytes": 95675,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:4173/assets/index-BVaMW9Gt.js",
+        "bytes": 84353
+      },
+      {
+        "name": "http://127.0.0.1:4173/assets/index-DDTirIog.css",
+        "bytes": 10848
+      },
+      {
+        "name": "http://127.0.0.1:4173/favicon.svg",
+        "bytes": 474
+      }
+    ],
+    "mode": "os-shell  mode-2d"
+  }
+]

@@ -1,0 +1,662 @@
+{
+  "started": "2026-11-05T15:33:33.279Z",
+  "production": true,
+  "picks": [
+    {
+      "id": "projects",
+      "point": {
+        "x": 570.2126928743952,
+        "y": 404.7877282176774
+      },
+      "before": {
+        "camera": [
+          18.5,
+          18.499999999999996,
+          24
+        ],
+        "target": [
+          0,
+          0.6,
+          0.2
+        ],
+        "quaternion": [
+          -0.250415960353836,
+          0.31282487450480323,
+          0.08587894077102194,
+          0.9121717229903411
+        ]
+      },
+      "after": {
+        "camera": [
+          2.3000000000000007,
+          7.599999999999999,
+          10.8
+        ],
+        "target": [
+          -6,
+          1,
+          0.1
+        ],
+        "quaternion": [
+          -0.2126912107870021,
+          0.3156319682613224,
+          0.0728220669747053,
+          0.9218654218631774
+        ]
+      },
+      "event": {
+        "id": "projects",
+        "object": "d881c4ac-fc4a-4e74-8930-22e3df2b2f38",
+        "type": "Mesh",
+        "time": 6898
+      }
+    },
+    {
+      "id": "skills",
+      "point": {
+        "x": 711.3675580455345,
+        "y": 352.5197490605227
+      },
+      "before": {
+        "camera": [
+          18.5,
+          18.499999999999996,
+          24
+        ],
+        "target": [
+          0,
+          0.6,
+          0.2
+        ],
+        "quaternion": [
+          -0.250415960353836,
+          0.31282487450480323,
+          0.08587894077102194,
+          0.9121717229903411
+        ]
+      },
+      "after": {
+        "camera": [
+          -12,
+          8.599999999999998,
+          0.5
+        ],
+        "target": [
+          -4.8,
+          1,
+          -5.5
+        ],
+        "quaternion": [
+          -0.3025795245006254,
+          -0.3997787541923057,
+          -0.14172066844397874,
+          0.8535442760543915
+        ]
+      },
+      "event": {
+        "id": "skills",
+        "object": "18940f60-555d-455f-bb19-faf2ea3af401",
+        "type": "Mesh",
+        "time": 33407.10000000149
+      }
+    },
+    {
+      "id": "experience",
+      "point": {
+        "x": 909.3202875477566,
+        "y": 424.68459381882604
+      },
+      "before": {
+        "camera": [
+          18.5,
+          18.499999999999996,
+          24
+        ],
+        "target": [
+          0,
+          0.6,
+          0.2
+        ],
+        "quaternion": [
+          -0.250415960353836,
+          0.31282487450480323,
+          0.08587894077102194,
+          0.9121717229903411
+        ]
+      },
+      "after": {
+        "camera": [
+          11.928367584025548,
+          7.249518524610228,
+          4.422000258161156
+        ],
+        "target": [
+          3,
+          1.5,
+          -5.3
+        ],
+        "quaternion": [
+          -0.1900486044687747,
+          0.3553239117093619,
+          0.07402684346632502,
+          0.9122206269063647
+        ]
+      },
+      "event": {
+        "id": "experience",
+        "object": "ae741316-3579-4953-9c09-58e49cacd72d",
+        "type": "Mesh",
+        "time": 79349
+      }
+    },
+    {
+      "id": "opensource",
+      "point": {
+        "x": 920.1468387053666,
+        "y": 551.7309434737991
+      },
+      "before": {
+        "camera": [
+          18.5,
+          18.499999999999996,
+          24
+        ],
+        "target": [
+          0,
+          0.6,
+          0.2
+        ],
+        "quaternion": [
+          -0.250415960353836,
+          0.31282487450480323,
+          0.08587894077102194,
+          0.9121717229903411
+        ]
+      },
+      "after": {
+        "camera": [
+          15,
+          7.3999999999999995,
+          10.5
+        ],
+        "target": [
+          6.6,
+          1,
+          0.3
+        ],
+        "quaternion": [
+          -0.210481272265069,
+          0.3291391940536376,
+          0.07551339701799302,
+          0.9174217960317941
+        ]
+      },
+      "event": {
+        "id": "opensource",
+        "object": "52ebebf8-3540-4de0-8290-a77d8fdb2482",
+        "type": "Mesh",
+        "time": 101810.39999999851
+      }
+    },
+    {
+      "id": "about",
+      "point": {
+        "x": 619.241077319873,
+        "y": 562.4192452294589
+      },
+      "before": {
+        "camera": [
+          18.5,
+          18.499999999999996,
+          24
+        ],
+        "target": [
+          0,
+          0.6,
+          0.2
+        ],
+        "quaternion": [
+          -0.250415960353836,
+          0.31282487450480323,
+          0.08587894077102194,
+          0.9121717229903411
+        ]
+      },
+      "after": {
+        "camera": [
+          8.999999999999996,
+          8,
+          15.999999999999998
+        ],
+        "target": [
+          0.8,
+          0.7,
+          5.4
+        ],
+        "quaternion": [
+          -0.23355691713718155,
+          0.3132963970558573,
+          0.07979365133978134,
+          0.9170220865688349
+        ]
+      },
+      "event": {
+        "id": "about",
+        "object": "353c4ff9-82a7-4379-be29-706398f1c19e",
+        "type": "Mesh",
+        "time": 128462.89999999851
+      }
+    },
+    {
+      "id": "achievements",
+      "point": {
+        "x": 791.6187433299345,
+        "y": 673.9600983572861
+      },
+      "before": {
+        "camera": [
+          18.5,
+          18.499999999999996,
+          24
+        ],
+        "target": [
+          0,
+          0.6,
+          0.2
+        ],
+        "quaternion": [
+          -0.250415960353836,
+          0.31282487450480323,
+          0.08587894077102194,
+          0.9121717229903411
+        ]
+      },
+      "after": {
+        "camera": [
+          15,
+          7.9999999999999964,
+          16.5
+        ],
+        "target": [
+          6.7,
+          1.8000000000000003,
+          6.2
+        ],
+        "quaternion": [
+          -0.20501605526760708,
+          0.32472083397419127,
+          0.07232375106177086,
+          0.9204857804974341
+        ]
+      },
+      "event": {
+        "id": "achievements",
+        "object": "419bf658-3c59-454d-ad00-a8d34d0c2760",
+        "type": "Mesh",
+        "time": 136874
+      }
+    },
+    {
+      "id": "contact",
+      "point": {
+        "x": 419.7430251771057,
+        "y": 501.73312380419486
+      },
+      "before": {
+        "camera": [
+          18.5,
+          18.499999999999996,
+          24
+        ],
+        "target": [
+          0,
+          0.6,
+          0.2
+        ],
+        "quaternion": [
+          -0.250415960353836,
+          0.31282487450480323,
+          0.08587894077102194,
+          0.9121717229903411
+        ]
+      },
+      "after": {
+        "camera": [
+          2.965751220541131,
+          6.922132758608081,
+          16.460175837838527
+        ],
+        "target": [
+          -5.6,
+          1.2,
+          6.5
+        ],
+        "quaternion": [
+          -0.19122992870928493,
+          0.340408345761675,
+          0.07091939071902945,
+          0.9178909044770427
+        ]
+      },
+      "event": {
+        "id": "contact",
+        "object": "689d6c41-a78f-4566-b910-3060a7dc2ee6",
+        "type": "Mesh",
+        "time": 143985.5
+      }
+    }
+  ],
+  "frames": [
+    {
+      "name": "desktop-overview",
+      "at": "2026-11-05T15:33:36.729Z",
+      "route": "http://127.0.0.1:4173/?qa=1"
+    },
+    {
+      "name": "desktop-projects",
+      "at": "2026-11-05T15:33:43.819Z",
+      "route": "http://127.0.0.1:4173/?qa=1#projects"
+    },
+    {
+      "name": "project-case",
+      "at": "2026-11-05T15:33:53.816Z",
+      "route": "http://127.0.0.1:4173/?qa=1#projects/business-intelligence"
+    },
+    {
+      "name": "blue-cred",
+      "at": "2026-11-05T15:34:03.248Z",
+      "route": "http://127.0.0.1:4173/?qa=1#projects"
+    },
+    {
+      "name": "desktop-skills",
+      "at": "2026-11-05T15:34:09.836Z",
+      "route": "http://127.0.0.1:4173/?qa=1#skills"
+    },
+    {
+      "name": "skill-frontend",
+      "at": "2026-11-05T15:34:18.330Z",
+      "route": "http://127.0.0.1:4173/?qa=1#skills/frontend"
+    },
+    {
+      "name": "skill-backend",
+      "at": "2026-11-05T15:34:24.496Z",
+      "route": "http://127.0.0.1:4173/?qa=1#skills/backend"
+    },
+    {
+      "name": "skill-ai",
+      "at": "2026-11-05T15:34:30.556Z",
+      "route": "http://127.0.0.1:4173/?qa=1#skills/ai"
+    },
+    {
+      "name": "skill-data",
+      "at": "2026-11-05T15:34:35.805Z",
+      "route": "http://127.0.0.1:4173/?qa=1#skills/data"
+    },
+    {
+      "name": "skills-html-index",
+      "at": "2026-11-05T15:34:50.462Z",
+      "route": "http://127.0.0.1:4173/?qa=1#skills/all"
+    },
+    {
+      "name": "desktop-experience",
+      "at": "2026-11-05T15:34:54.979Z",
+      "route": "http://127.0.0.1:4173/?qa=1#experience"
+    },
+    {
+      "name": "nitrix-workflow",
+      "at": "2026-11-05T15:35:13.219Z",
+      "route": "http://127.0.0.1:4173/?qa=1#experience/analysis"
+    },
+    {
+      "name": "nitrix-responsibilities",
+      "at": "2026-11-05T15:35:13.515Z",
+      "route": "http://127.0.0.1:4173/?qa=1#experience/analysis"
+    },
+    {
+      "name": "desktop-opensource",
+      "at": "2026-11-05T15:35:17.510Z",
+      "route": "http://127.0.0.1:4173/?qa=1#opensource"
+    },
+    {
+      "name": "prs-open",
+      "at": "2026-11-05T15:35:37.033Z",
+      "route": "http://127.0.0.1:4173/?qa=1#opensource/VarshithReddy2006%2FDevTrack%2326"
+    },
+    {
+      "name": "prs-merged",
+      "at": "2026-11-05T15:35:37.717Z",
+      "route": "http://127.0.0.1:4173/?qa=1#opensource/VarshithReddy2006%2FDevTrack%2326"
+    },
+    {
+      "name": "prs-closed-unmerged",
+      "at": "2026-11-05T15:35:38.070Z",
+      "route": "http://127.0.0.1:4173/?qa=1#opensource/VarshithReddy2006%2FDevTrack%2326"
+    },
+    {
+      "name": "desktop-about",
+      "at": "2026-11-05T15:35:47.332Z",
+      "route": "http://127.0.0.1:4173/?qa=1#about"
+    },
+    {
+      "name": "desktop-achievements",
+      "at": "2026-11-05T15:35:52.513Z",
+      "route": "http://127.0.0.1:4173/?qa=1#achievements"
+    },
+    {
+      "name": "desktop-contact",
+      "at": "2026-11-05T15:36:03.431Z",
+      "route": "http://127.0.0.1:4173/?qa=1#contact"
+    },
+    {
+      "name": "viewport-1280-home",
+      "at": "2026-11-05T15:37:15.597Z",
+      "route": "http://127.0.0.1:4173/?qa=1"
+    },
+    {
+      "name": "viewport-768-home",
+      "at": "2026-11-05T15:37:55.968Z",
+      "route": "http://127.0.0.1:4173/?qa=1"
+    },
+    {
+      "name": "viewport-390-home",
+      "at": "2026-11-05T15:38:10.289Z",
+      "route": "http://127.0.0.1:4173/?qa=1"
+    },
+    {
+      "name": "viewport-390-projects",
+      "at": "2026-11-05T15:38:13.240Z",
+      "route": "http://127.0.0.1:4173/?qa=1#projects"
+    },
+    {
+      "name": "viewport-390-skills",
+      "at": "2026-11-05T15:38:15.115Z",
+      "route": "http://127.0.0.1:4173/?qa=1#skills"
+    },
+    {
+      "name": "viewport-390-experience",
+      "at": "2026-11-05T15:38:17.405Z",
+      "route": "http://127.0.0.1:4173/?qa=1#experience"
+    },
+    {
+      "name": "viewport-390-opensource",
+      "at": "2026-11-05T15:38:19.889Z",
+      "route": "http://127.0.0.1:4173/?qa=1#opensource"
+    },
+    {
+      "name": "viewport-390-about",
+      "at": "2026-11-05T15:38:21.323Z",
+      "route": "http://127.0.0.1:4173/?qa=1#about"
+    },
+    {
+      "name": "viewport-390-achievements",
+      "at": "2026-11-05T15:38:23.645Z",
+      "route": "http://127.0.0.1:4173/?qa=1#achievements"
+    },
+    {
+      "name": "viewport-390-contact",
+      "at": "2026-11-05T15:38:24.429Z",
+      "route": "http://127.0.0.1:4173/?qa=1#contact"
+    },
+    {
+      "name": "viewport-320-home",
+      "at": "2026-11-05T15:38:26.996Z",
+      "route": "http://127.0.0.1:4173/?qa=1"
+    },
+    {
+      "name": "viewport-320-projects",
+      "at": "2026-11-05T15:38:29.430Z",
+      "route": "http://127.0.0.1:4173/?qa=1#projects"
+    },
+    {
+      "name": "viewport-320-skills",
+      "at": "2026-11-05T15:38:30.838Z",
+      "route": "http://127.0.0.1:4173/?qa=1#skills"
+    },
+    {
+      "name": "viewport-320-experience",
+      "at": "2026-11-05T15:38:31.980Z",
+      "route": "http://127.0.0.1:4173/?qa=1#experience"
+    },
+    {
+      "name": "viewport-320-opensource",
+      "at": "2026-11-05T15:38:33.666Z",
+      "route": "http://127.0.0.1:4173/?qa=1#opensource"
+    },
+    {
+      "name": "viewport-320-about",
+      "at": "2026-11-05T15:38:34.668Z",
+      "route": "http://127.0.0.1:4173/?qa=1#about"
+    },
+    {
+      "name": "viewport-320-achievements",
+      "at": "2026-11-05T15:38:35.594Z",
+      "route": "http://127.0.0.1:4173/?qa=1#achievements"
+    },
+    {
+      "name": "viewport-320-contact",
+      "at": "2026-11-05T15:38:36.370Z",
+      "route": "http://127.0.0.1:4173/?qa=1#contact"
+    },
+    {
+      "name": "viewport-844-home",
+      "at": "2026-11-05T15:38:38.179Z",
+      "route": "http://127.0.0.1:4173/?qa=1"
+    },
+    {
+      "name": "viewport-844-projects",
+      "at": "2026-11-05T15:38:40.810Z",
+      "route": "http://127.0.0.1:4173/?qa=1#projects"
+    },
+    {
+      "name": "viewport-844-skills",
+      "at": "2026-11-05T15:38:42.290Z",
+      "route": "http://127.0.0.1:4173/?qa=1#skills"
+    },
+    {
+      "name": "viewport-844-experience",
+      "at": "2026-11-05T15:38:43.572Z",
+      "route": "http://127.0.0.1:4173/?qa=1#experience"
+    },
+    {
+      "name": "viewport-844-opensource",
+      "at": "2026-11-05T15:38:45.569Z",
+      "route": "http://127.0.0.1:4173/?qa=1#opensource"
+    },
+    {
+      "name": "viewport-844-about",
+      "at": "2026-11-05T15:38:46.621Z",
+      "route": "http://127.0.0.1:4173/?qa=1#about"
+    },
+    {
+      "name": "viewport-844-achievements",
+      "at": "2026-11-05T15:38:47.638Z",
+      "route": "http://127.0.0.1:4173/?qa=1#achievements"
+    },
+    {
+      "name": "viewport-844-contact",
+      "at": "2026-11-05T15:38:48.607Z",
+      "route": "http://127.0.0.1:4173/?qa=1#contact"
+    },
+    {
+      "name": "reduced-motion-2d",
+      "at": "2026-11-05T15:38:50.324Z",
+      "route": "http://127.0.0.1:4173/?qa=1#skills"
+    },
+    {
+      "name": "no-webgl",
+      "at": "2026-11-05T15:38:53.311Z",
+      "route": "http://127.0.0.1:4173/?qa=1"
+    }
+  ],
+  "viewports": [
+    {
+      "width": 1280,
+      "height": 800,
+      "directRoutes": 7,
+      "axeViolations": 0,
+      "touch": "skills + experience",
+      "remote": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "directRoutes": 7,
+      "axeViolations": 0,
+      "touch": "skills + experience",
+      "remote": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "directRoutes": 7,
+      "axeViolations": 0,
+      "touch": "skills + experience",
+      "remote": []
+    },
+    {
+      "width": 320,
+      "height": 780,
+      "directRoutes": 7,
+      "axeViolations": 0,
+      "touch": "skills + experience",
+      "remote": []
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "directRoutes": 7,
+      "axeViolations": 0,
+      "touch": "skills + experience",
+      "remote": []
+    }
+  ],
+  "checks": [
+    "physical skill frontend",
+    "physical skill backend",
+    "physical skill ai",
+    "physical skill data",
+    "physical skill tools",
+    "physical skill networks",
+    "physical studio outreach",
+    "physical studio alignment",
+    "physical studio coordination",
+    "physical studio analysis",
+    "physical PR python-poetry/poetry#11141",
+    "physical PR chhavikant03/Civic-Connect#49",
+    "physical PR VarshithReddy2006/DevTrack#26",
+    "mid-flight retarget, seven keyboard sections, Escape and focus restoration",
+    "actual orbit and wheel zoom"
+  ],
+  "fallback": [
+    "reduced motion defaults 2D; opt-in 3D instant camera",
+    "forced WebGL failure: all seven HTML sections",
+    "context loss: working HTML index"
+  ],
+  "desktop": {
+    "errors": [],
+    "remote": [],
+    "failed": []
+  },
+  "status": "PASS",
+  "finished": "2026-11-05T15:38:58.046Z"
+}

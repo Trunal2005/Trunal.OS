@@ -1,0 +1,70 @@
+{
+  "files": [
+    {
+      "path": "src/data/prs.generated.json",
+      "unchanged": true,
+      "sha256": "a2c570e5cf1a354f165c43475b899081fa9d9c961d7464c1d8249ca89ee3dbf4"
+    },
+    {
+      "path": "src/content/skills.ts",
+      "unchanged": true,
+      "sha256": "4b21ca7ca75791111bff727b67d6c136c8a5199c5765cee5368e49fe3aec3c42"
+    },
+    {
+      "path": "src/content/experience.ts",
+      "unchanged": true,
+      "sha256": "25619ea7efba37c5b932dfcdb40aa2c907db06e511fccbaa5926278955db9f94"
+    },
+    {
+      "path": "src/content/education.ts",
+      "unchanged": true,
+      "sha256": "ec79bc4f58ee3aad0a9191b1201d34cb2cba83c9231fa9356a1b2a4ab44afbab"
+    },
+    {
+      "path": "src/content/certifications.ts",
+      "unchanged": true,
+      "sha256": "6a073ddbaba7e04f61c257c60211d3ec72a71dd76e3752dd06620e0d50a2f1ef"
+    },
+    {
+      "path": "src/components/SkillsLab.tsx",
+      "unchanged": true,
+      "sha256": "03ba59b5ce63b3301032260d223802553e33ec168e62bd546f9b656b87607a39"
+    },
+    {
+      "path": "src/components/ExperienceStudio.tsx",
+      "unchanged": true,
+      "sha256": "587ab7cf780469e3f2750107069435fe83f3ebfd47e5ce3b02c542e2711dc4f6"
+    },
+    {
+      "path": "src/components/Observatory.tsx",
+      "unchanged": true,
+      "sha256": "4c68111f864ed623d66892b2f39a590cd7593d03da4903e0463f9810fae7ee46"
+    },
+    {
+      "path": "src/scene/CameraDirector.tsx",
+      "unchanged": true,
+      "sha256": "3aa62522fbc4c19d1584499737273b280f7b88cc9fc0d670c62772a05d585c13"
+    },
+    {
+      "path": "package.json",
+      "unchanged": true,
+      "sha256": "f3cf8a2613fa7744d595dba92b6af46e21552a81a7422ada57f7d63da7367638"
+    },
+    {
+      "path": "package-lock.json",
+      "unchanged": true,
+      "sha256": "5784480058e3c2c3479378bb1a02da48dc3a2dc1dfd2c1a5edb89f311275795e"
+    }
+  ],
+  "originalFullImagesUnchanged": [
+    "public/project-media/anumitra/action-desk-full.webp",
+    "public/project-media/anumitra/evc-planner-full.webp",
+    "public/project-media/bi/dashboard-full.webp",
+    "public/project-media/bi/dataset-manager-full.webp",
+    "public/project-media/cybertwin/network-replay-full.webp",
+    "public/project-media/cybertwin/security-overview-full.webp",
+    "public/project-media/recovery/analytics-full.webp",
+    "public/project-media/recovery/command-center-full.webp",
+    "public/project-media/resume/upload-workspace-full.webp"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "measured": "2026-11-05T10:37:07.302Z",
+  "environment": "Windows Chrome headless / software WebGL / local static production server; lab samples, not field/Core Web Vitals certification",
+  "results": [
+    {
+      "scenario": "desktop-3d",
+      "htmlReadyMs": 170,
+      "viewReadyMs": 1892,
+      "throttle": null,
+      "lcp": 808,
+      "cls": 0,
+      "resources": [
+        {
+          "url": "http://127.0.0.1:4173/assets/index-ZOWH1j-d.js",
+          "transferBytes": 91176
+        },
+        {
+          "url": "http://127.0.0.1:4173/assets/index-DkrwqIJu.css",
+          "transferBytes": 14319
+        },
+        {
+          "url": "http://127.0.0.1:4173/assets/WorldCanvas-DOfSYP7Q.js",
+          "transferBytes": 257517
+        },
+        {
+          "url": "http://127.0.0.1:4173/favicon.svg",
+          "transferBytes": 474
+        }
+      ],
+      "sceneLoaded": true
+    },
+    {
+      "scenario": "mobile-index",
+      "htmlReadyMs": 2215,
+      "viewReadyMs": 2223,
+      "throttle": "4x CPU, 150ms latency, 200000 B/s download",
+      "lcp": 2104,
+      "cls": 0,
+      "resources": [
+        {
+          "url": "http://127.0.0.1:4173/assets/index-ZOWH1j-d.js",
+          "transferBytes": 91176
+        },
+        {
+          "url": "http://127.0.0.1:4173/assets/index-DkrwqIJu.css",
+          "transferBytes": 14319
+        },
+        {
+          "url": "http://127.0.0.1:4173/favicon.svg",
+          "transferBytes": 474
+        }
+      ],
+      "sceneLoaded": false
+    },
+    {
+      "scenario": "data-saver-index",
+      "htmlReadyMs": 158,
+      "viewReadyMs": 163,
+      "throttle": null,
+      "lcp": 176,
+      "cls": 0,
+      "resources": [
+        {
+          "url": "http://127.0.0.1:4173/assets/index-ZOWH1j-d.js",
+          "transferBytes": 91176
+        },
+        {
+          "url": "http://127.0.0.1:4173/assets/index-DkrwqIJu.css",
+          "transferBytes": 14319
+        },
+        {
+          "url": "http://127.0.0.1:4173/favicon.svg",
+          "transferBytes": 474
+        }
+      ],
+      "sceneLoaded": false
+    },
+    {
+      "scenario": "low-memory-index",
+      "htmlReadyMs": 165,
+      "viewReadyMs": 177,
+      "throttle": null,
+      "lcp": 188,
+      "cls": 0,
+      "resources": [
+        {
+          "url": "http://127.0.0.1:4173/assets/index-ZOWH1j-d.js",
+          "transferBytes": 91176
+        },
+        {
+          "url": "http://127.0.0.1:4173/assets/index-DkrwqIJu.css",
+          "transferBytes": 14319
+        },
+        {
+          "url": "http://127.0.0.1:4173/favicon.svg",
+          "transferBytes": 474
+        }
+      ],
+      "sceneLoaded": false
+    }
+  ]
+}

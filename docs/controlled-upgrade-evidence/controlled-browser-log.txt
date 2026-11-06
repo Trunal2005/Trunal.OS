@@ -1,0 +1,14 @@
+PASS controlled upgrade acceptance [
+  'Featured/all order; shared hero; quick facts; gallery preserves filter, focus, scroll and camera under wheel/drag',
+  'Six stable deep links; each actual first hero and gallery count; quick facts; source links; axe',
+  'Existing Blue Cred pad is a real raycast target; no new campus geometry',
+  'Exact approved contact links; copy feedback; honest missing résumé without any PDF request; visible unverified owner finalist claim',
+  '1440x900: six real heroes, missing résumé, contact, multi/single gallery and no overflow',
+  '1280x800: six real heroes, missing résumé, contact, multi/single gallery and no overflow',
+  '768x1024: six real heroes, missing résumé, contact, multi/single gallery and no overflow',
+  '390x844: six real heroes, missing résumé, contact, multi/single gallery and no overflow',
+  '320x780: six real heroes, missing résumé, contact, multi/single gallery and no overflow',
+  '844x390: six real heroes, missing résumé, contact, multi/single gallery and no overflow',
+  '200% computed text-size enlargement at unchanged 1280 viewport: Projects, case, Achievements, Contact; axe and no horizontal overflow',
+  'Actual résumé component tested in disposable harness with in-memory PDF fixture: desktop object, no-inline and mobile fallback, controls, focus trap/Escape/return and real background camera preserved; fixture never ships'
+]

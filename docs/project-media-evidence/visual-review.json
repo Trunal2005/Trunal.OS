@@ -1,0 +1,39 @@
+{
+  "at": "2026-11-05T11:57:11.977Z",
+  "reviewer": "Codex visual inspection of actual PNG captures; not human owner approval",
+  "afterFinalApplicationChanges": true,
+  "inspected": [
+    "docs/project-media-evidence/final-overview.png",
+    "docs/project-media-evidence/final-projects-index.png",
+    "docs/project-media-evidence/final-bi-lightbox.png",
+    "docs/project-media-evidence/final-lightbox-recovery.png",
+    "docs/project-media-evidence/final-lightbox-cybertwin.png",
+    "docs/project-media-evidence/final-lightbox-anumitra.png",
+    "docs/project-media-evidence/final-lightbox-resume.png",
+    "docs/project-media-evidence/final-nitrix-polish.png",
+    "docs/project-media-evidence/final-opensource.png",
+    "docs/project-media-evidence/final-projects-1280.png",
+    "docs/project-media-evidence/final-projects-390.png",
+    "docs/project-media-evidence/final-lightbox-390-zoom.png",
+    "docs/project-media-evidence/final-projects-320.png",
+    "docs/project-media-evidence/final-lightbox-844-zoom.png",
+    "docs/project-media-evidence/final-blue-cred.png",
+    "docs/project-media-evidence/final-image-failure.png"
+  ],
+  "findings": [
+    "Approved seven-district campus retained",
+    "Primary project media is actual application UI; synthetic and simulation captions visible",
+    "No image aspect distortion; full originals inspectable and 100% view allows phone panning",
+    "Projects heading remains above nested scroll content; case opening/reset and back/forward verified",
+    "Nitrix internal provenance badge removed; role/date preserved",
+    "Blue Cred has no media or interactive controls",
+    "Corrected lightbox keyboard scroll/focus containment and inherited footer layout",
+    "Capture helper now waits for explicit image decode and paint; earlier transient blank proof frames replaced"
+  ],
+  "limitations": [
+    "New media/polish awaits owner review",
+    "Physical phone/GPU and screen-reader checks not performed",
+    "Resume successful analysis output unavailable without a genuine safe keyless path",
+    "Preview UI text is small on phone; enlarge/100% zoom is provided for inspection"
+  ]
+}

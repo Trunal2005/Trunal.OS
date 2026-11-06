@@ -1,0 +1,30 @@
+{
+  "root": "http://127.0.0.1:4181/trunal-os/",
+  "pdfUrl": "http://127.0.0.1:4181/trunal-os/resume/Trunal_Patil_Resume_Public.pdf",
+  "order": [
+    "blue-cred",
+    "bi",
+    "recovery",
+    "cybertwin",
+    "resume",
+    "anumitra"
+  ],
+  "checked": [
+    "PDF GET 200, application/pdf, 89019 bytes",
+    "1440px: new-tab PDF opened",
+    "New-tab PDF opened; Download PDF bytes match served public asset",
+    "1440x900: complete order, filtered CyberTwin, Anumitra search, résumé controls, viewer, close/focus",
+    "390px: new-tab PDF opened",
+    "390x844: complete order, filtered CyberTwin, Anumitra search, résumé controls, viewer, close/focus"
+  ],
+  "screenshots": [
+    "subpath-projects-1440.png",
+    "subpath-contact-1440.png",
+    "subpath-viewer-1440.png",
+    "subpath-pdf-tab-1440.png",
+    "subpath-projects-390.png",
+    "subpath-contact-390.png",
+    "subpath-viewer-390.png",
+    "subpath-pdf-tab-390.png"
+  ]
+}

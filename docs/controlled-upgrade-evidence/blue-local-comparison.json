@@ -1,0 +1,37 @@
+[
+  {
+    "file": "contracts/BlueCred.sol",
+    "localPresent": true,
+    "matchesPublicNormalized": true
+  },
+  {
+    "file": "frontend/package.json",
+    "localPresent": true,
+    "matchesPublicNormalized": true
+  },
+  {
+    "file": "frontend/src/app/page.tsx",
+    "localPresent": true,
+    "matchesPublicNormalized": true
+  },
+  {
+    "file": "assets/screenshots/homepage.png",
+    "localPresent": true,
+    "matchesPublic": true
+  },
+  {
+    "file": "assets/screenshots/marketplace.png",
+    "localPresent": true,
+    "matchesPublic": true
+  },
+  {
+    "file": "assets/screenshots/impact.png",
+    "localPresent": true,
+    "matchesPublic": true
+  },
+  {
+    "file": "assets/screenshots/submit-project.png",
+    "localPresent": true,
+    "matchesPublic": true
+  }
+]

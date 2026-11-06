@@ -1,0 +1,28 @@
+[
+  {
+    "width": 1440,
+    "initial3d": "true",
+    "reducedMotion": false,
+    "storage": {}
+  },
+  {
+    "width": 1280,
+    "initial3d": "true",
+    "reducedMotion": false,
+    "storage": {}
+  },
+  {
+    "width": 390,
+    "initial3d": "false",
+    "reducedMotion": false,
+    "storage": {}
+  },
+  {
+    "reference": 200,
+    "text": "Enter",
+    "buttons": [
+      "Enter"
+    ],
+    "errors": []
+  }
+]

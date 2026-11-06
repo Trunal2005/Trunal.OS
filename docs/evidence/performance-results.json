@@ -1,0 +1,58 @@
+[
+  {
+    "mode": "1440px, unthrottled, 2D reduced motion",
+    "lcp": 484,
+    "cls": 0,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:4173/TrunalOS-portfolio/assets/index-C4FncRL2.js",
+        "transferSize": 83860,
+        "encodedBodySize": 83560
+      },
+      {
+        "name": "http://127.0.0.1:4173/TrunalOS-portfolio/assets/index-ikg9aS1v.css",
+        "transferSize": 6438,
+        "encodedBodySize": 6138
+      },
+      {
+        "name": "http://127.0.0.1:4173/TrunalOS-portfolio/favicon.svg",
+        "transferSize": 474,
+        "encodedBodySize": 174
+      }
+    ],
+    "navigation": [
+      {
+        "domContentLoaded": 99.70000000111759,
+        "load": 99.90000000037253
+      }
+    ]
+  },
+  {
+    "mode": "390px, 4× CPU, 150ms latency, 1.6Mbps, 2D reduced motion",
+    "lcp": 2032,
+    "cls": 0,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:4173/TrunalOS-portfolio/assets/index-C4FncRL2.js",
+        "transferSize": 83860,
+        "encodedBodySize": 83560
+      },
+      {
+        "name": "http://127.0.0.1:4173/TrunalOS-portfolio/assets/index-ikg9aS1v.css",
+        "transferSize": 6438,
+        "encodedBodySize": 6138
+      },
+      {
+        "name": "http://127.0.0.1:4173/TrunalOS-portfolio/favicon.svg",
+        "transferSize": 474,
+        "encodedBodySize": 174
+      }
+    ],
+    "navigation": [
+      {
+        "domContentLoaded": 1070.5,
+        "load": 1071.2999999988824
+      }
+    ]
+  }
+]

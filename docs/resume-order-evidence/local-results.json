@@ -1,0 +1,30 @@
+{
+  "root": "http://127.0.0.1:4173/",
+  "pdfUrl": "http://127.0.0.1:4173/resume/Trunal_Patil_Resume_Public.pdf",
+  "order": [
+    "blue-cred",
+    "bi",
+    "recovery",
+    "cybertwin",
+    "resume",
+    "anumitra"
+  ],
+  "checked": [
+    "PDF GET 200, application/pdf, 89019 bytes",
+    "1440px: new-tab PDF opened",
+    "New-tab PDF opened; Download PDF bytes match served public asset",
+    "1440x900: complete order, filtered CyberTwin, Anumitra search, résumé controls, viewer, close/focus",
+    "390px: new-tab PDF opened",
+    "390x844: complete order, filtered CyberTwin, Anumitra search, résumé controls, viewer, close/focus"
+  ],
+  "screenshots": [
+    "local-projects-1440.png",
+    "local-contact-1440.png",
+    "local-viewer-1440.png",
+    "local-pdf-tab-1440.png",
+    "local-projects-390.png",
+    "local-contact-390.png",
+    "local-viewer-390.png",
+    "local-pdf-tab-390.png"
+  ]
+}

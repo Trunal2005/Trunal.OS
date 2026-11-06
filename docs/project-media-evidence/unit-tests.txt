@@ -1,0 +1,19 @@
+
+> trunal-os@0.1.0 test
+> vitest run
+
+
+ RUN  v3.2.7 C:/projects/TrunalOS-portfolio
+
+ ✓ scripts/pr-utils.test.ts (8 tests) 15ms
+ ✓ src/scene/scene-contracts.test.ts (4 tests) 12ms
+ ✓ src/content/contracts.test.ts (5 tests) 17ms
+ ✓ src/content/project-media.test.ts (5 tests) 51ms
+ ✓ src/content/round3-content.test.ts (4 tests) 17ms
+ ✓ src/components/Observatory.test.tsx (3 tests) 77ms
+ ✓ src/content/routes-and-rendering.test.tsx (4 tests) 47ms
+
+ Test Files  7 passed (7)
+      Tests  33 passed (33)
+   Start at  17:16:31
+   Duration  1.70s (transform 831ms, setup 0ms, collect 2.54s, tests 234ms, environment 2ms, prepare 2.56s)

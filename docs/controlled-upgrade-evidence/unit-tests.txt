@@ -1,0 +1,25 @@
+
+> trunal-os@0.1.0 test
+> vitest run
+
+
+ RUN  v3.2.7 C:/projects/TrunalOS-portfolio
+
+ ✓ scripts/pr-utils.test.ts (8 tests) 16ms
+ ✓ src/content/contracts.test.ts (5 tests) 15ms
+ ✓ src/scene/scene-contracts.test.ts (4 tests) 10ms
+ ✓ src/content/project-media.test.ts (5 tests) 62ms
+ ✓ src/content/round3-content.test.ts (4 tests) 9ms
+ ✓ src/components/Observatory.test.tsx (3 tests) 64ms
+ ✓ src/content/routes-and-rendering.test.tsx (4 tests) 4586ms
+   ✓ seven-district routes and independent professional content > renders a complete semantic skill index and source-linked applications  2342ms
+   ✓ seven-district routes and independent professional content > renders Nitrix independently of projects, without disputed client claims  2215ms
+ ✓ src/content/controlled-upgrade.test.tsx (5 tests) 4627ms
+   ✓ controlled owner-approved upgrade > has six unique stable projects and editorially features four  2119ms
+   ✓ controlled owner-approved upgrade > renders accurate quick facts and exact approved contact destinations  416ms
+   ✓ controlled owner-approved upgrade > publishes the approved finalist story without a false proof badge or event  2026ms
+
+ Test Files  8 passed (8)
+      Tests  38 passed (38)
+   Start at  20:33:03
+   Duration  11.25s (transform 5.15s, setup 0ms, collect 12.35s, tests 9.39s, environment 3ms, prepare 2.83s)

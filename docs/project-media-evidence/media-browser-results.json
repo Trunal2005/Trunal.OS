@@ -1,0 +1,284 @@
+{
+  "started": "2026-11-05T11:53:05.760Z",
+  "production": true,
+  "checks": [
+    "thumbnail selection; keyboard enlarge; full-resolution zoom; arrows; native focus trap; Escape and restoration",
+    "nested modal Escape; case scroll reset; back/forward; unclipped Projects heading",
+    "1280x800: readable route, loaded UI, touch enlarge/zoom/pan/close, axe and no overflow",
+    "390x844: readable route, loaded UI, touch enlarge/zoom/pan/close, axe and no overflow",
+    "320x780: readable route, loaded UI, touch enlarge/zoom/pan/close, axe and no overflow",
+    "844x390: readable route, loaded UI, touch enlarge/zoom/pan/close, axe and no overflow",
+    "WebP failure uses actual PNG fallback",
+    "all image failures produce a helpful state and retain source/case links"
+  ],
+  "screenshots": [
+    {
+      "name": "final-overview",
+      "at": "2026-11-05T11:53:09.259Z",
+      "url": "http://127.0.0.1:4173/?qa=1"
+    },
+    {
+      "name": "final-projects-index",
+      "at": "2026-11-05T11:53:11.520Z",
+      "url": "http://127.0.0.1:4173/?qa=1#projects"
+    },
+    {
+      "name": "final-bi-lightbox",
+      "at": "2026-11-05T11:53:13.628Z",
+      "url": "http://127.0.0.1:4173/?qa=1#projects"
+    },
+    {
+      "name": "final-case-recovery",
+      "at": "2026-11-05T11:53:17.585Z",
+      "url": "http://127.0.0.1:4173/?qa=1#projects/revenue-recovery"
+    },
+    {
+      "name": "final-lightbox-recovery",
+      "at": "2026-11-05T11:53:18.502Z",
+      "url": "http://127.0.0.1:4173/?qa=1#projects/revenue-recovery"
+    },
+    {
+      "name": "final-case-cybertwin",
+      "at": "2026-11-05T11:53:20.037Z",
+      "url": "http://127.0.0.1:4173/?qa=1#projects/cybertwin-ai"
+    },
+    {
+      "name": "final-lightbox-cybertwin",
+      "at": "2026-11-05T11:53:21.056Z",
+      "url": "http://127.0.0.1:4173/?qa=1#projects/cybertwin-ai"
+    },
+    {
+      "name": "final-case-anumitra",
+      "at": "2026-11-05T11:53:22.642Z",
+      "url": "http://127.0.0.1:4173/?qa=1#projects/anumitra"
+    },
+    {
+      "name": "final-lightbox-anumitra",
+      "at": "2026-11-05T11:53:23.547Z",
+      "url": "http://127.0.0.1:4173/?qa=1#projects/anumitra"
+    },
+    {
+      "name": "final-case-resume",
+      "at": "2026-11-05T11:53:24.975Z",
+      "url": "http://127.0.0.1:4173/?qa=1#projects/resume-analyser"
+    },
+    {
+      "name": "final-lightbox-resume",
+      "at": "2026-11-05T11:53:25.808Z",
+      "url": "http://127.0.0.1:4173/?qa=1#projects/resume-analyser"
+    },
+    {
+      "name": "final-nitrix-polish",
+      "at": "2026-11-05T11:53:27.924Z",
+      "url": "http://127.0.0.1:4173/?qa=1#experience"
+    },
+    {
+      "name": "final-opensource",
+      "at": "2026-11-05T11:53:30.158Z",
+      "url": "http://127.0.0.1:4173/?qa=1#opensource"
+    },
+    {
+      "name": "final-blue-cred",
+      "at": "2026-11-05T11:53:31.830Z",
+      "url": "http://127.0.0.1:4173/?qa=1#projects"
+    },
+    {
+      "name": "final-projects-1280",
+      "at": "2026-11-05T11:53:34.432Z",
+      "url": "http://127.0.0.1:4173/?qa=1#projects"
+    },
+    {
+      "name": "final-lightbox-1280-zoom",
+      "at": "2026-11-05T11:53:36.170Z",
+      "url": "http://127.0.0.1:4173/?qa=1#projects"
+    },
+    {
+      "name": "final-projects-390",
+      "at": "2026-11-05T11:53:38.302Z",
+      "url": "http://127.0.0.1:4173/?qa=1#projects"
+    },
+    {
+      "name": "final-lightbox-390-zoom",
+      "at": "2026-11-05T11:53:39.917Z",
+      "url": "http://127.0.0.1:4173/?qa=1#projects"
+    },
+    {
+      "name": "final-projects-320",
+      "at": "2026-11-05T11:53:41.918Z",
+      "url": "http://127.0.0.1:4173/?qa=1#projects"
+    },
+    {
+      "name": "final-lightbox-320-zoom",
+      "at": "2026-11-05T11:53:43.434Z",
+      "url": "http://127.0.0.1:4173/?qa=1#projects"
+    },
+    {
+      "name": "final-projects-844",
+      "at": "2026-11-05T11:53:45.421Z",
+      "url": "http://127.0.0.1:4173/?qa=1#projects"
+    },
+    {
+      "name": "final-lightbox-844-zoom",
+      "at": "2026-11-05T11:53:46.941Z",
+      "url": "http://127.0.0.1:4173/?qa=1#projects"
+    },
+    {
+      "name": "final-image-failure",
+      "at": "2026-11-05T11:53:48.723Z",
+      "url": "http://127.0.0.1:4173/?qa=1#projects"
+    }
+  ],
+  "transfers": [
+    {
+      "scenario": "desktop overview",
+      "totalBytes": 0,
+      "images": []
+    },
+    {
+      "scenario": "desktop Projects before enlarge",
+      "totalBytes": 113838,
+      "images": [
+        {
+          "url": "http://127.0.0.1:4173/project-media/bi/dashboard.webp",
+          "bytes": 44080
+        },
+        {
+          "url": "http://127.0.0.1:4173/project-media/bi/dashboard-thumb.webp",
+          "bytes": 2132
+        },
+        {
+          "url": "http://127.0.0.1:4173/project-media/bi/dataset-manager-thumb.webp",
+          "bytes": 2736
+        },
+        {
+          "url": "http://127.0.0.1:4173/project-media/recovery/command-center.webp",
+          "bytes": 59042
+        },
+        {
+          "url": "http://127.0.0.1:4173/project-media/recovery/command-center-thumb.webp",
+          "bytes": 3246
+        },
+        {
+          "url": "http://127.0.0.1:4173/project-media/recovery/analytics-thumb.webp",
+          "bytes": 2602
+        }
+      ]
+    },
+    {
+      "scenario": "1280x800 Projects before enlarge",
+      "totalBytes": 113838,
+      "images": [
+        {
+          "url": "http://127.0.0.1:4173/project-media/bi/dashboard.webp",
+          "bytes": 44080
+        },
+        {
+          "url": "http://127.0.0.1:4173/project-media/bi/dashboard-thumb.webp",
+          "bytes": 2132
+        },
+        {
+          "url": "http://127.0.0.1:4173/project-media/bi/dataset-manager-thumb.webp",
+          "bytes": 2736
+        },
+        {
+          "url": "http://127.0.0.1:4173/project-media/recovery/command-center.webp",
+          "bytes": 59042
+        },
+        {
+          "url": "http://127.0.0.1:4173/project-media/recovery/command-center-thumb.webp",
+          "bytes": 3246
+        },
+        {
+          "url": "http://127.0.0.1:4173/project-media/recovery/analytics-thumb.webp",
+          "bytes": 2602
+        }
+      ]
+    },
+    {
+      "scenario": "390x844 Projects before enlarge",
+      "totalBytes": 113838,
+      "images": [
+        {
+          "url": "http://127.0.0.1:4173/project-media/bi/dashboard.webp",
+          "bytes": 44080
+        },
+        {
+          "url": "http://127.0.0.1:4173/project-media/bi/dashboard-thumb.webp",
+          "bytes": 2132
+        },
+        {
+          "url": "http://127.0.0.1:4173/project-media/bi/dataset-manager-thumb.webp",
+          "bytes": 2736
+        },
+        {
+          "url": "http://127.0.0.1:4173/project-media/recovery/command-center.webp",
+          "bytes": 59042
+        },
+        {
+          "url": "http://127.0.0.1:4173/project-media/recovery/command-center-thumb.webp",
+          "bytes": 3246
+        },
+        {
+          "url": "http://127.0.0.1:4173/project-media/recovery/analytics-thumb.webp",
+          "bytes": 2602
+        }
+      ]
+    },
+    {
+      "scenario": "320x780 Projects before enlarge",
+      "totalBytes": 113838,
+      "images": [
+        {
+          "url": "http://127.0.0.1:4173/project-media/bi/dashboard.webp",
+          "bytes": 44080
+        },
+        {
+          "url": "http://127.0.0.1:4173/project-media/bi/dashboard-thumb.webp",
+          "bytes": 2132
+        },
+        {
+          "url": "http://127.0.0.1:4173/project-media/bi/dataset-manager-thumb.webp",
+          "bytes": 2736
+        },
+        {
+          "url": "http://127.0.0.1:4173/project-media/recovery/command-center.webp",
+          "bytes": 59042
+        },
+        {
+          "url": "http://127.0.0.1:4173/project-media/recovery/command-center-thumb.webp",
+          "bytes": 3246
+        },
+        {
+          "url": "http://127.0.0.1:4173/project-media/recovery/analytics-thumb.webp",
+          "bytes": 2602
+        }
+      ]
+    },
+    {
+      "scenario": "844x390 Projects before enlarge",
+      "totalBytes": 107990,
+      "images": [
+        {
+          "url": "http://127.0.0.1:4173/project-media/bi/dashboard.webp",
+          "bytes": 44080
+        },
+        {
+          "url": "http://127.0.0.1:4173/project-media/bi/dashboard-thumb.webp",
+          "bytes": 2132
+        },
+        {
+          "url": "http://127.0.0.1:4173/project-media/bi/dataset-manager-thumb.webp",
+          "bytes": 2736
+        },
+        {
+          "url": "http://127.0.0.1:4173/project-media/recovery/command-center.webp",
+          "bytes": 59042
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "remote": [],
+  "status": "PASS",
+  "finished": "2026-11-05T11:53:48.737Z"
+}

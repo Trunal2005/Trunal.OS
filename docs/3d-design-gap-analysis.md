@@ -1,0 +1,11 @@
+# P0 rebuild gap analysis — 5 November 2026
+
+Baseline was captured in clean Chrome contexts at 1440×900, 1280×800 and 390×844 in both explicit modes. `baseline.json` proves the old desktop default was 3D (no saved preference, reduced-motion false); mobile default was 2D due to the width threshold in initial3D. The rejection is therefore an art-direction/layout failure, not evidence that Three.js was absent. The right-hand stage occupied roughly a third of the viewport; the large name and scrolling document dictated navigation. Objects had no anchored names, paths were faint, zoom/pan were disabled, and picking geometry only selected a state; a separate toolbar action was needed for content. Hovering DOM navigation was insufficient proof of raycast selection. Old tests must be extended around actual canvas picks and numerical camera position/target.
+
+Preservation: no Git repository exists. Current src, scripts and configuration are archived locally in `.local/backups/pre-immersive-20261105.zip` before mutation. Typed biography/projects, Blue Cred reservation, source evidence and PR snapshot are retained. No reset, clean, commit, push or deployment.
+
+Replacement: full-viewport three-dimensional campus with asymmetrical coordinates, stepped architecture, a prominent engineered hub, physical routed cables and six named destinations. Compact identity/HUD and semantic shortcuts frame the world. Contextual drawers replace homepage scrolling. Each station has its own focus pose, category animation and actual geometry raycast handler. Case selection changes the camera target again. Fallback is explicitly secondary. No external models or assets.
+
+Reference: local Chrome reached merodev.net (HTTP 200), initially showing a full-screen black Enter button. Entered/drag observations are recorded separately. No reference assets or source were downloaded for reuse. The screenshot described by the owner is not separately attached in this message; its stated grid/routes/terminals requirements are used as the design brief, not falsely reported as a viewed attachment.
+
+Visual acceptance is separate from technical checks. Each major render is captured and opened for inspection. Owner subjective approval remains outstanding even when implementation gates pass.

@@ -1,0 +1,13 @@
+# Previous portfolio audit — 5 November 2026
+
+Target: https://portfolio-lyart-eight-70.vercel.app/ . Initial sandbox DNS failed; public-network retry returned HTTP 200 without a redirect. Real installed Google Chrome, headless Playwright, visited 1440×900, 390×844 and 768×1024. All returned 200, with no JavaScript page errors and no horizontal overflow. Evidence: `docs/evidence/previous-audit.json` and `previous-1440.png`, `previous-390.png`, `previous-768.png`.
+
+Verified DOM: prominent name and full-stack role; About / Work / Contact anchors; introduction mentioning AI, ML, data analytics, Computer Engineering and Nitrix; projects AI Resume Analyzer, Netflix UI Clone and AI Revenue Recovery. Work Experience and Testimonials headings exist. Contact has name/email/message inputs and Send. Only same-page navigation links were exposed as anchors: project source affordances need inspection beyond anchor extraction. No contact form was submitted.
+
+Visual initial/full-page capture: violet-on-navy identity, curved line background, a rendered desktop-computer model, small technology emblems and a later planetary model. Desktop gives the name strong initial priority. Mobile retains readable hero text but the computer scene is large relative to the viewport. Full-page screenshots before scrolling contain extensive blank sections despite corresponding DOM text: likely viewport-triggered reveals, not proof of absent content. This makes an initial screenshot unreliable as the sole content audit and adds a potential reduced-motion/scroll-reveal risk.
+
+Network: remote Google Fonts (Poppins) plus local GLTF, binary models and many textures. This is materially heavier than procedural geometry and system fonts. No third-party AI endpoint appeared during initial navigation; contact delivery and later interaction requests were not exercised. No Lighthouse score was measured on the old site.
+
+Retain: personal identity, full-stack/AI/data focus, genuine source-verifiable projects, and proportionate Nitrix leadership. Replace: general-purpose workstation/planet scene with a meaningful engineering topology; broad skill-logo treatment with project-linked skills; generic project introduction with concrete problems/decisions; contact form with transparent mailto/copy interaction; unverified testimonial/achievement sections with evidence-backed material. New site does not reuse old source, styling or model assets.
+
+Limitations: original site's keyboard/focus and scroll-triggered content require further dedicated interaction testing; no claim of a comprehensive accessibility audit. Local résumé PDF was not found under supplied attachment storage. Use the authoritative transcription, never publish a private PDF or phone.

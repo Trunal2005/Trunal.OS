@@ -1,0 +1,22 @@
+# Round 3 content and visual gap audit — 5 November 2026
+
+| Item | Latest résumé / owner brief | Previous portfolio evidence | Current Round 2 | Source / uncertainty | Action |
+|---|---|---|---|---|---|
+| Identity | Full-stack, Agentic AI, data systems; student in Mumbai | Clear name/role hero | Small header; vague bottom tagline | Latest supplied transcription governs | Readable name, student role and intro in initial desktop/mobile |
+| Skills | Six domains, tools used vs concepts explored | Skills identity and tool emblems | Four buried toolkit groups; no Skills route | Repository evidence + résumé terms | Dedicated Skills Lab, six pods, evidence-linked HTML index |
+| Nitrix | Co-founder & CMO, Mar 2025 onward; partnerships/coordination/analysis | Scrolled local audit reveals actual Nitrix role and campaign-analysis bullets | One Journey paragraph | April local résumé corroborates role/date; client/network figures unverified | Separate Experience Studio with role, narrative, lifecycle and transferable skills; no numbers/logos |
+| Education | B.Tech Computer Engineering, VIT, Sep 2024–May 2028 expected | No explicit education content in extracted audit | Buried under Journey | Two Dec 2025 PDFs say 8.79; April PDF/latest brief say 8.75; exact UNDP PDF unavailable | Dedicated About & Education; retain current dates, omit grade |
+| Achievements | Hackathon finalist claim requires proof | No verified award evidence | Missing | Owner claim only | Explicit destination; show verified community milestones, hide unverified award number |
+| Certifications | Four credentials listed | No issuer links in saved/renewed audit | Hidden, no findable section | Local April résumé repeats four names; issuer proofs absent | Visible Certifications heading with honest proof-first empty state; pending records remain gated |
+| Projects | Five audited prototypes | Three older project summaries | Five cases + Blue Cred | Existing repository/source evidence; current links rechecked separately | Preserve cases, improve preview/editorial archive and search |
+| PRs | Real merged/open/closed-unmerged separation | Absent | Snapshot/filter functional | 23 records rechecked this round: unchanged | Preserve exact JSON, improve featured stories and actual node mapping |
+| Contact | Privacy; LinkedIn and public PDF require review | Contact form not submitted | Mail/copy and GitHub | Email publication requires owner approval under Round 3 | GitHub-first contact; email/PDF disabled until explicit clearance |
+| Blue Cred | Empty future reservation | Not established | Empty reserved card | Explicit instruction | Preserve byte-identical project registry and null contract |
+| Visual composition | Designed populated campus, seven balanced districts | Old workstation model; category inspiration only | Infinite grid, small props, tiny labels, six project-heavy categories | Rejected production screenshots personally inspected | Finite campus terrain; larger hall/lab/studio/tower; three geographic clusters; readable anchored labels |
+| Mobile | Content-first, clear direct sections | Old large workstation; no horizontal overflow in audit | Entire map shrunk into tiny phone labels | Actual previous mobile screenshot inspected | Default editorial index and direct section access; opt-in 3D |
+
+Inputs: all current content, scene, camera and QA scripts; previous portfolio/provenance/competition audits; Round 2 screenshot/evidence; three local résumé PDFs. The exact `Trunal_Patil_Resume_UNDP(2).pdf` was not found. Two named PDFs are from Dec 2025; a further April 2026 résumé supports Nitrix role/dates and updated grade but is still earlier than this brief. Phone numbers were redacted from local review renders, which stay in ignored .local storage; no source PDF is copied to public or git.
+
+New local browser research: old portfolio HTTP 200; scrolling revealed Nitrix role/bullets previously absent in the initial screenshot. Reference HTTP 200 at a loading view; no source/assets reused. Codrops returned HTTP 403/connection challenge in both web reader and local Chrome. We do not claim to have read the blocked article. Owner-supplied mobile principle is treated as the brief, not invented article evidence.
+
+Preservation: no Git repository exists. Before changes, src/scripts/configuration were archived in `.local/backups/pre-round3-20261105.zip`. Existing project and PR content remains the reference. No commit/push/deploy/account or paid resource. Final subjective verdict must remain AWAITING OWNER VISUAL APPROVAL.

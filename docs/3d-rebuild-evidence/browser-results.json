@@ -1,0 +1,606 @@
+{
+  "viewports": [
+    {
+      "width": 1440,
+      "height": 900,
+      "canvasArea": 1296000,
+      "violations": 0,
+      "errors": [],
+      "remote": [],
+      "failed": []
+    },
+    {
+      "width": 1280,
+      "height": 800,
+      "canvasArea": 1024000,
+      "violations": 0,
+      "errors": [],
+      "remote": [],
+      "failed": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "canvasArea": 786432,
+      "violations": 0,
+      "errors": [],
+      "remote": [],
+      "failed": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "canvasArea": 329160,
+      "violations": 0,
+      "errors": [],
+      "remote": [],
+      "failed": []
+    },
+    {
+      "width": 320,
+      "height": 780,
+      "canvasArea": 249600,
+      "violations": 0,
+      "errors": [],
+      "remote": [],
+      "failed": []
+    }
+  ],
+  "picks": [
+    {
+      "id": "work",
+      "point": {
+        "x": 538.5466816521047,
+        "y": 403.62204170326646
+      },
+      "camera": [
+        1.9641073161789482,
+        7.13541811702885,
+        13.954137126228655
+      ],
+      "target": [
+        -7,
+        0.8,
+        2.5
+      ],
+      "orientation": [
+        -0.1928178279741987,
+        0.31910463592179017,
+        0.06648105616962507,
+        0.9255127150499368
+      ],
+      "event": {
+        "id": "work",
+        "object": "cd0b1374-813b-4062-bddc-1743de2b58a2",
+        "type": "Mesh",
+        "time": 4422.10000000149
+      },
+      "geometry": {
+        "meshes": 83,
+        "types": [
+          "PlaneGeometry",
+          "BoxGeometry",
+          "SphereGeometry"
+        ],
+        "position": [
+          -7,
+          0,
+          2.5
+        ],
+        "shape": "server-workshop"
+      }
+    },
+    {
+      "id": "ai",
+      "point": {
+        "x": 739.3304168162366,
+        "y": 336.1523389093302
+      },
+      "camera": [
+        2.0000000000000018,
+        6.999999999999999,
+        4.000000000000003
+      ],
+      "target": [
+        -5,
+        1,
+        -6.2
+      ],
+      "orientation": [
+        -0.21383008291580644,
+        0.2886962627700639,
+        0.0663158468293709,
+        0.9308777427579418
+      ],
+      "event": {
+        "id": "ai",
+        "object": "43831560-e41b-466a-a88b-d86c142088ef",
+        "type": "Mesh",
+        "time": 20169.800000000745
+      },
+      "geometry": {
+        "meshes": 35,
+        "types": [
+          "PlaneGeometry",
+          "BoxGeometry",
+          "CylinderGeometry",
+          "TorusGeometry",
+          "SphereGeometry"
+        ],
+        "position": [
+          -5,
+          0,
+          -6.2
+        ],
+        "shape": "pipeline-reactor"
+      }
+    },
+    {
+      "id": "networks",
+      "point": {
+        "x": 943.8748407089719,
+        "y": 421.5313687335488
+      },
+      "camera": [
+        13,
+        7,
+        4
+      ],
+      "target": [
+        4.5,
+        1,
+        -5.5
+      ],
+      "orientation": [
+        -0.20381939807725155,
+        0.3483034144223692,
+        0.0778721692209075,
+        0.9116349651751937
+      ],
+      "event": {
+        "id": "networks",
+        "object": "4095d2ae-874d-4b6c-9fba-be5e0ff23ae5",
+        "type": "Mesh",
+        "time": 24173
+      },
+      "geometry": {
+        "meshes": 31,
+        "types": [
+          "PlaneGeometry",
+          "BoxGeometry",
+          "TorusGeometry",
+          "SphereGeometry"
+        ],
+        "position": [
+          4.5,
+          0,
+          -5.5
+        ],
+        "shape": "communications-switch"
+      }
+    },
+    {
+      "id": "opensource",
+      "point": {
+        "x": 885.7324623164099,
+        "y": 554.0062216192342
+      },
+      "camera": [
+        15,
+        7.000000000000001,
+        12
+      ],
+      "target": [
+        7,
+        0.7,
+        2
+      ],
+      "orientation": [
+        -0.21383254334604695,
+        0.322396238029842,
+        0.07500840608018716,
+        0.9190810889838155
+      ],
+      "event": {
+        "id": "opensource",
+        "object": "b058d421-611a-4ab7-81f5-efe688351939",
+        "type": "Mesh",
+        "time": 28203.199999999255
+      },
+      "geometry": {
+        "meshes": 35,
+        "types": [
+          "PlaneGeometry",
+          "BoxGeometry",
+          "TorusGeometry",
+          "SphereGeometry"
+        ],
+        "position": [
+          7,
+          0,
+          2
+        ],
+        "shape": "branching-commit-tree"
+      }
+    },
+    {
+      "id": "journey",
+      "point": {
+        "x": 625.1436480096994,
+        "y": 560.9569298799213
+      },
+      "camera": [
+        10.000000000000004,
+        7.999999999999999,
+        17
+      ],
+      "target": [
+        1.5,
+        0.4,
+        7
+      ],
+      "orientation": [
+        -0.24351302276699652,
+        0.33319414459192026,
+        0.08950979348612588,
+        0.9064607363932594
+      ],
+      "event": {
+        "id": "journey",
+        "object": "32bd494d-2785-4777-b213-2fc1b04b0135",
+        "type": "Mesh",
+        "time": 34850.199999999255
+      },
+      "geometry": {
+        "meshes": 29,
+        "types": [
+          "PlaneGeometry",
+          "BoxGeometry",
+          "CylinderGeometry",
+          "SphereGeometry"
+        ],
+        "position": [
+          1.5,
+          0,
+          7
+        ],
+        "shape": "ascending-beacon-walk"
+      }
+    },
+    {
+      "id": "contact",
+      "point": {
+        "x": 429.84315373733773,
+        "y": 481.44665480753275
+      },
+      "camera": [
+        1.9415728442856928,
+        6.206750441195741,
+        16.934269449821404
+      ],
+      "target": [
+        -6,
+        1,
+        8
+      ],
+      "orientation": [
+        -0.19064300604646198,
+        0.34791040628081965,
+        0.0724823417094482,
+        0.9150737148379896
+      ],
+      "event": {
+        "id": "contact",
+        "object": "5b9abb8f-d644-42f9-bb4c-8e38346f09c2",
+        "type": "Mesh",
+        "time": 41854.699999999255
+      },
+      "geometry": {
+        "meshes": 24,
+        "types": [
+          "PlaneGeometry",
+          "BoxGeometry",
+          "CylinderGeometry",
+          "SphereGeometry",
+          "TorusGeometry"
+        ],
+        "position": [
+          -6,
+          0,
+          8
+        ],
+        "shape": "orbital-dish-terminal"
+      }
+    }
+  ],
+  "frames": [
+    {
+      "name": "01-desktop-3d-overview",
+      "at": "2026-11-05T08:47:08.221Z",
+      "scene": {
+        "camera": [
+          19.999999999999996,
+          19.999999999999996,
+          24.999999999999996
+        ],
+        "target": [
+          0,
+          0.2,
+          1
+        ],
+        "flight": "settled"
+      }
+    },
+    {
+      "name": "sequence/000-overview",
+      "at": "2026-11-05T08:47:08.320Z",
+      "scene": {
+        "camera": [
+          19.999999999999996,
+          19.999999999999996,
+          24.999999999999996
+        ],
+        "target": [
+          0,
+          0.2,
+          1
+        ],
+        "flight": "settled"
+      }
+    },
+    {
+      "name": "sequence/001-work-hover",
+      "at": "2026-11-05T08:47:10.343Z",
+      "scene": {
+        "camera": [
+          19.999999999999996,
+          19.999999999999996,
+          24.999999999999996
+        ],
+        "target": [
+          0,
+          0.2,
+          1
+        ],
+        "flight": "settled"
+      }
+    },
+    {
+      "name": "sequence/002-work-flight",
+      "at": "2026-11-05T08:47:12.704Z",
+      "scene": {
+        "camera": [
+          1.9641073161789482,
+          7.13541811702885,
+          13.954137126228655
+        ],
+        "target": [
+          -7,
+          0.8,
+          2.5
+        ],
+        "flight": "settled"
+      }
+    },
+    {
+      "name": "sequence/003-work-flight",
+      "at": "2026-11-05T08:47:13.149Z",
+      "scene": {
+        "camera": [
+          1.9641073161789482,
+          7.13541811702885,
+          13.954137126228655
+        ],
+        "target": [
+          -7,
+          0.8,
+          2.5
+        ],
+        "flight": "settled"
+      }
+    },
+    {
+      "name": "02-desktop-work-focus",
+      "at": "2026-11-05T08:47:13.490Z",
+      "scene": {
+        "camera": [
+          1.9641073161789482,
+          7.13541811702885,
+          13.954137126228655
+        ],
+        "target": [
+          -7,
+          0.8,
+          2.5
+        ],
+        "flight": "settled"
+      }
+    },
+    {
+      "name": "sequence/004-project-terminal-detail",
+      "at": "2026-11-05T08:47:16.273Z",
+      "scene": {
+        "camera": [
+          -3,
+          5.000000000000001,
+          7.9
+        ],
+        "target": [
+          -8,
+          1,
+          1.9
+        ],
+        "flight": "settled"
+      }
+    },
+    {
+      "name": "07-blue-cred-placeholder",
+      "at": "2026-11-05T08:47:24.204Z",
+      "scene": {
+        "camera": [
+          1.9641073161789482,
+          7.13541811702885,
+          13.954137126228655
+        ],
+        "target": [
+          -7,
+          0.8,
+          2.5
+        ],
+        "flight": "settled"
+      }
+    },
+    {
+      "name": "03-desktop-open-source-focus",
+      "at": "2026-11-05T08:47:36.391Z",
+      "scene": {
+        "camera": [
+          15,
+          7.000000000000001,
+          12
+        ],
+        "target": [
+          7,
+          0.7,
+          2
+        ],
+        "flight": "settled"
+      }
+    },
+    {
+      "name": "sequence/006-open-prs",
+      "at": "2026-11-05T08:47:36.668Z",
+      "scene": {
+        "camera": [
+          15,
+          7.000000000000001,
+          12
+        ],
+        "target": [
+          7,
+          0.7,
+          2
+        ],
+        "flight": "settled"
+      }
+    },
+    {
+      "name": "sequence/007-merged-prs",
+      "at": "2026-11-05T08:47:37.258Z",
+      "scene": {
+        "camera": [
+          15,
+          7.000000000000001,
+          12
+        ],
+        "target": [
+          7,
+          0.7,
+          2
+        ],
+        "flight": "settled"
+      }
+    },
+    {
+      "name": "04-desktop-journey-focus",
+      "at": "2026-11-05T08:47:43.315Z",
+      "scene": {
+        "camera": [
+          10.000000000000004,
+          7.999999999999999,
+          17
+        ],
+        "target": [
+          1.5,
+          0.4,
+          7
+        ],
+        "flight": "settled"
+      }
+    },
+    {
+      "name": "viewport-1280",
+      "at": "2026-11-05T08:48:33.772Z",
+      "scene": {
+        "camera": [
+          19.999999999999996,
+          19.999999999999996,
+          24.999999999999996
+        ],
+        "target": [
+          0,
+          0.2,
+          1
+        ],
+        "flight": "settled"
+      }
+    },
+    {
+      "name": "viewport-768",
+      "at": "2026-11-05T08:48:44.922Z",
+      "scene": {
+        "camera": [
+          19.999999999999996,
+          19.999999999999996,
+          24.999999999999996
+        ],
+        "target": [
+          0,
+          0.2,
+          1
+        ],
+        "flight": "settled"
+      }
+    },
+    {
+      "name": "05-mobile-3d-or-lite",
+      "at": "2026-11-05T08:48:55.140Z",
+      "scene": {
+        "camera": [
+          26.000000000000004,
+          26,
+          32.5
+        ],
+        "target": [
+          0,
+          0.2,
+          1
+        ],
+        "flight": "settled"
+      }
+    },
+    {
+      "name": "viewport-320",
+      "at": "2026-11-05T08:49:04.579Z",
+      "scene": {
+        "camera": [
+          29.152500000000007,
+          29.152499999999996,
+          36.44062500000001
+        ],
+        "target": [
+          0,
+          0.2,
+          1
+        ],
+        "flight": "settled"
+      }
+    },
+    {
+      "name": "06-no-webgl-fallback",
+      "at": "2026-11-05T08:49:16.809Z",
+      "scene": null
+    }
+  ],
+  "fallback": [
+    "forced no-WebGL -> accessible map and working work panel",
+    "context loss -> accessible map"
+  ],
+  "checks": [
+    "physical journey milestone focus",
+    "mid-flight retarget",
+    "orbit, wheel zoom, six keyboard destinations, Escape, focus restoration",
+    "OS and manual reduced motion; direct case route"
+  ],
+  "status": "PASS"
+}

@@ -1,0 +1,272 @@
+{
+  "git": "No repository; see git-status.txt",
+  "backup": ".local/backups/pre-controlled-upgrade-20261105.zip",
+  "changes": [
+    {
+      "path": "src/PortfolioApp.tsx",
+      "status": "modified"
+    },
+    {
+      "path": "src/project-media.css",
+      "status": "modified"
+    },
+    {
+      "path": "src/components/PersonalSections.tsx",
+      "status": "modified"
+    },
+    {
+      "path": "src/components/ProjectDetails.tsx",
+      "status": "modified"
+    },
+    {
+      "path": "src/components/ProjectGallery.tsx",
+      "status": "modified"
+    },
+    {
+      "path": "src/components/ProjectsPanel.tsx",
+      "status": "modified"
+    },
+    {
+      "path": "src/content/achievements.ts",
+      "status": "modified"
+    },
+    {
+      "path": "src/content/contracts.test.ts",
+      "status": "modified"
+    },
+    {
+      "path": "src/content/links.ts",
+      "status": "modified"
+    },
+    {
+      "path": "src/content/profile.ts",
+      "status": "modified"
+    },
+    {
+      "path": "src/content/project-media.test.ts",
+      "status": "modified"
+    },
+    {
+      "path": "src/content/project-media.ts",
+      "status": "modified"
+    },
+    {
+      "path": "src/content/projects.ts",
+      "status": "modified"
+    },
+    {
+      "path": "src/content/round3-content.test.ts",
+      "status": "modified"
+    },
+    {
+      "path": "src/content/routes-and-rendering.test.tsx",
+      "status": "modified"
+    },
+    {
+      "path": "src/content/stations.ts",
+      "status": "modified"
+    },
+    {
+      "path": "src/scene/scene-contracts.test.ts",
+      "status": "modified"
+    },
+    {
+      "path": "src/scene/StationArchitecture.tsx",
+      "status": "modified"
+    },
+    {
+      "path": "src/scene/WorldCanvas.tsx",
+      "status": "modified"
+    },
+    {
+      "path": "src/scene/WorldFloor.tsx",
+      "status": "modified"
+    },
+    {
+      "path": "src/scene/WorldLabels.tsx",
+      "status": "modified"
+    },
+    {
+      "path": "scripts/project-media-browser-test.mjs",
+      "status": "modified"
+    },
+    {
+      "path": "scripts/round3-browser-test.mjs",
+      "status": "modified"
+    },
+    {
+      "path": "scripts/round3-output-audit.mjs",
+      "status": "modified"
+    },
+    {
+      "path": "public/project-media/cybertwin/security-overview.png",
+      "status": "modified"
+    },
+    {
+      "path": "public/project-media/cybertwin/security-overview.webp",
+      "status": "modified"
+    },
+    {
+      "path": "vite.config.ts",
+      "status": "modified"
+    },
+    {
+      "path": "src/components/ContactSection.tsx",
+      "status": "added"
+    },
+    {
+      "path": "src/components/ProjectFacts.tsx",
+      "status": "added"
+    },
+    {
+      "path": "src/components/ResumeViewer.tsx",
+      "status": "added"
+    },
+    {
+      "path": "src/content/controlled-upgrade.test.tsx",
+      "status": "added"
+    },
+    {
+      "path": "src/content/resume.ts",
+      "status": "added"
+    },
+    {
+      "path": "scripts/blue-pick-debug.mjs",
+      "status": "added"
+    },
+    {
+      "path": "scripts/controlled-baseline.mjs",
+      "status": "added"
+    },
+    {
+      "path": "scripts/controlled-delivery-captures.mjs",
+      "status": "added"
+    },
+    {
+      "path": "scripts/controlled-upgrade-browser.mjs",
+      "status": "added"
+    },
+    {
+      "path": "scripts/controlled-upgrade-report.mjs",
+      "status": "added"
+    },
+    {
+      "path": "scripts/resume-fixture-build.mjs",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/anumitra/home-full.webp",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/anumitra/home-thumb.webp",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/anumitra/home.png",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/anumitra/home.webp",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/bi/home-full.webp",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/bi/home-thumb.webp",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/bi/home.png",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/bi/home.webp",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/blue-cred/homepage-full.webp",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/blue-cred/homepage-thumb.webp",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/blue-cred/homepage.png",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/blue-cred/homepage.webp",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/blue-cred/impact-full.webp",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/blue-cred/impact-thumb.webp",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/blue-cred/impact.png",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/blue-cred/impact.webp",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/blue-cred/marketplace-full.webp",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/blue-cred/marketplace-thumb.webp",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/blue-cred/marketplace.png",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/blue-cred/marketplace.webp",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/blue-cred/submit-project-full.webp",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/blue-cred/submit-project-thumb.webp",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/blue-cred/submit-project.png",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/blue-cred/submit-project.webp",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/recovery/home-full.webp",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/recovery/home-thumb.webp",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/recovery/home.png",
+      "status": "added"
+    },
+    {
+      "path": "public/project-media/recovery/home.webp",
+      "status": "added"
+    }
+  ],
+  "deleted": [],
+  "supportingConfigChange": "eslint.config.js ignores generated local harness bundles; source and tests remain linted"
+}

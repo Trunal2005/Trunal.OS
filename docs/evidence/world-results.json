@@ -1,0 +1,11 @@
+{
+  "errors": [],
+  "warnings": [],
+  "checks": [
+    "canvas renders",
+    "station focus changes canvas",
+    "reset",
+    "context loss falls back",
+    "clipboard feedback"
+  ]
+}

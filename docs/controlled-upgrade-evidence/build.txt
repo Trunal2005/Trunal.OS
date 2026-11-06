@@ -1,0 +1,19 @@
+
+> trunal-os@0.1.0 build
+> tsc -b && vite build
+
+vite v6.4.5 building for production...
+transforming...
+✓ 2176 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                        1.90 kB │ gzip:   0.83 kB
+dist/assets/index-BytKUnt4.css        80.82 kB │ gzip:  16.73 kB
+dist/assets/index-DVso3ik6.js        324.42 kB │ gzip: 101.58 kB
+dist/assets/WorldCanvas-CYuLR3Ll.js  944.44 kB │ gzip: 257.39 kB
+
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 14.82s

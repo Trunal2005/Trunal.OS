@@ -1,0 +1,12 @@
+node_modules/
+.local/
+dist/
+*.tsbuildinfo
+.env*
+*.pdf
+!public/resume/Trunal_Patil_Resume_Public.pdf
+test-results/
+docs/evidence/*-raw.json
+TRUNAL_OS_*_PROMPT.md
+TRUNAL_OS_CODEX_MASTER_PROMPT.md
+/.github/workflows/pages.yml

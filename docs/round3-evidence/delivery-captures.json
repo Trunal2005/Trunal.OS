@@ -1,0 +1,67 @@
+[
+  {
+    "name": "skill-frontend-evidence",
+    "at": "2026-11-05T10:38:37.354Z",
+    "route": "http://127.0.0.1:4173/?qa=1#skills/frontend"
+  },
+  {
+    "name": "skill-backend-evidence",
+    "at": "2026-11-05T10:38:39.049Z",
+    "route": "http://127.0.0.1:4173/?qa=1#skills/backend"
+  },
+  {
+    "name": "skill-ai-evidence",
+    "at": "2026-11-05T10:38:40.640Z",
+    "route": "http://127.0.0.1:4173/?qa=1#skills/ai"
+  },
+  {
+    "name": "skill-data-evidence",
+    "at": "2026-11-05T10:38:42.159Z",
+    "route": "http://127.0.0.1:4173/?qa=1#skills/data"
+  },
+  {
+    "name": "mobile-390-home-viewport",
+    "at": "2026-11-05T10:38:43.062Z",
+    "route": "http://127.0.0.1:4173/#"
+  },
+  {
+    "name": "mobile-390-skills-viewport",
+    "at": "2026-11-05T10:38:43.346Z",
+    "route": "http://127.0.0.1:4173/#skills"
+  },
+  {
+    "name": "mobile-390-experience-viewport",
+    "at": "2026-11-05T10:38:43.452Z",
+    "route": "http://127.0.0.1:4173/#experience"
+  },
+  {
+    "name": "mobile-320-home-viewport",
+    "at": "2026-11-05T10:38:44.329Z",
+    "route": "http://127.0.0.1:4173/#"
+  },
+  {
+    "name": "mobile-320-skills-viewport",
+    "at": "2026-11-05T10:38:44.461Z",
+    "route": "http://127.0.0.1:4173/#skills"
+  },
+  {
+    "name": "mobile-320-experience-viewport",
+    "at": "2026-11-05T10:38:44.583Z",
+    "route": "http://127.0.0.1:4173/#experience"
+  },
+  {
+    "name": "mobile-844-home-viewport",
+    "at": "2026-11-05T10:38:45.468Z",
+    "route": "http://127.0.0.1:4173/#"
+  },
+  {
+    "name": "mobile-844-skills-viewport",
+    "at": "2026-11-05T10:38:45.558Z",
+    "route": "http://127.0.0.1:4173/#skills"
+  },
+  {
+    "name": "mobile-844-experience-viewport",
+    "at": "2026-11-05T10:38:45.652Z",
+    "route": "http://127.0.0.1:4173/#experience"
+  }
+]

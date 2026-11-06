@@ -1,0 +1,29 @@
+{
+  "at": "2026-11-05T15:13:52.463Z",
+  "checks": [
+    "Actual résumé component tested in disposable harness with in-memory PDF fixture: desktop object, no-inline and mobile fallback, controls, focus trap/Escape/return; fixture never ships"
+  ],
+  "screenshots": [
+    "fixture-resume-1440-default",
+    "fixture-resume-1440-fallback",
+    "fixture-resume-390-default"
+  ],
+  "errors": [],
+  "remote": [],
+  "failedResponses": [],
+  "browserInternal": [
+    "chrome://resources/css/text_defaults_md.css",
+    "chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/index.css",
+    "chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/main.js",
+    "chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_viewer_wrapper.js",
+    "chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/browser_api.js",
+    "chrome://resources/js/assert.js",
+    "chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/shared.rollup.js",
+    "chrome://resources/lit/v3_0/lit.rollup.js",
+    "chrome://resources/js/load_time_data.js",
+    "chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/pdf_scripting_api.js",
+    "chrome://resources/mojo/mojo/public/js/bindings.js"
+  ],
+  "status": "PASS",
+  "finished": "2026-11-05T15:14:02.477Z"
+}

@@ -1,0 +1,22 @@
+
+> trunal-os@0.1.0 test:browser
+> node scripts/browser-test.mjs
+
+PASS district projects
+PASS district skills
+PASS district experience
+PASS district opensource
+PASS district about
+PASS district achievements
+PASS district contact
+PASS viewport 1280x800
+PASS viewport 768x1024
+PASS viewport 390x844
+PASS viewport 320x780
+PASS viewport 844x390
+PASS complete Round 3 production browser suite
+PASS media viewport 1280x800
+PASS media viewport 390x844
+PASS media viewport 320x780
+PASS media viewport 844x390
+PASS actual media, captions, modal/keyboard/touch/scroll and failure paths

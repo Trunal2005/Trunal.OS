@@ -1,0 +1,380 @@
+[
+  {
+    "project": "bi",
+    "name": "dashboard",
+    "sourcePath": "C:\\projects\\Business platform\\Sem-5\\frontend\\test-results\\ui-design-desktop-and-lapt-f2b83-able-with-no-browser-errors-chromium\\-dashboard.png",
+    "sourceRepoPath": null,
+    "sourceRef": "a564c85887b09aa28313479845bd471f927b2a5c",
+    "sourceGitBlob": "a1865ac765176b425a1f370a423cf46aafad7e6e",
+    "sourceSha256": "741c2ce08fe0cc10d2c259cb4128ce1066bbadb0ff1d59fb2a83f4a8c8d13431",
+    "originalSize": [
+      1440,
+      4075
+    ],
+    "previewSize": [
+      1200,
+      833
+    ],
+    "fullSize": [
+      1440,
+      4075
+    ],
+    "previewCrop": "original rectangle (0,550,1440,1550); complete original available in enlarge view",
+    "files": [
+      {
+        "path": "public/project-media/bi/dashboard-full.webp",
+        "bytes": 251024
+      },
+      {
+        "path": "public/project-media/bi/dashboard-thumb.webp",
+        "bytes": 1832
+      },
+      {
+        "path": "public/project-media/bi/dashboard.png",
+        "bytes": 181835
+      },
+      {
+        "path": "public/project-media/bi/dashboard.webp",
+        "bytes": 43780
+      }
+    ],
+    "privacy": "Manually inspected: only synthetic/demo/role-alias data; no private contact, key, token or real customer records",
+    "publication": "Local integration authorized by owner; public release still requires owner approval"
+  },
+  {
+    "project": "bi",
+    "name": "dataset-manager",
+    "sourcePath": "C:\\projects\\Business platform\\Sem-5\\frontend\\test-results\\ui-design-desktop-and-lapt-f2b83-able-with-no-browser-errors-chromium\\-datasets.png",
+    "sourceRepoPath": null,
+    "sourceRef": "a564c85887b09aa28313479845bd471f927b2a5c",
+    "sourceGitBlob": "7ce87bdf171cf4db478c003e7a08aadf47c8443e",
+    "sourceSha256": "23719b6c0ecabbdc3511270b17e7fb8adb2229560cbf3d41ab65bfe8d12f05a2",
+    "originalSize": [
+      1440,
+      1000
+    ],
+    "previewSize": [
+      1200,
+      833
+    ],
+    "fullSize": [
+      1440,
+      1000
+    ],
+    "previewCrop": "no crop",
+    "files": [
+      {
+        "path": "public/project-media/bi/dataset-manager-full.webp",
+        "bytes": 78898
+      },
+      {
+        "path": "public/project-media/bi/dataset-manager-thumb.webp",
+        "bytes": 2436
+      },
+      {
+        "path": "public/project-media/bi/dataset-manager.png",
+        "bytes": 199403
+      },
+      {
+        "path": "public/project-media/bi/dataset-manager.webp",
+        "bytes": 52664
+      }
+    ],
+    "privacy": "Manually inspected: only synthetic/demo/role-alias data; no private contact, key, token or real customer records",
+    "publication": "Local integration authorized by owner; public release still requires owner approval"
+  },
+  {
+    "project": "recovery",
+    "name": "command-center",
+    "sourcePath": "C:\\projects\\TrunalOS-portfolio\\.local\\project-media\\raw\\recovery-command-center.png",
+    "sourceRepoPath": "docs/assets/command-center.png",
+    "sourceRef": "7455b2b2753aebc86b548bb5c0c171c098cc0051",
+    "sourceGitBlob": "50156db57672369e18b91f5aed62c1f7fdd55ad9",
+    "sourceSha256": "38714f5b32f7eaf6f56fd53aad93d4a95ad0fe204ddfc6920bb38a61fc890d7f",
+    "originalSize": [
+      1783,
+      985
+    ],
+    "previewSize": [
+      1200,
+      663
+    ],
+    "fullSize": [
+      1783,
+      985
+    ],
+    "previewCrop": "no crop",
+    "files": [
+      {
+        "path": "public/project-media/recovery/command-center-full.webp",
+        "bytes": 116738
+      },
+      {
+        "path": "public/project-media/recovery/command-center-thumb.webp",
+        "bytes": 2946
+      },
+      {
+        "path": "public/project-media/recovery/command-center.png",
+        "bytes": 256889
+      },
+      {
+        "path": "public/project-media/recovery/command-center.webp",
+        "bytes": 58742
+      }
+    ],
+    "privacy": "Manually inspected: only synthetic/demo/role-alias data; no private contact, key, token or real customer records",
+    "publication": "Local integration authorized by owner; public release still requires owner approval"
+  },
+  {
+    "project": "recovery",
+    "name": "analytics",
+    "sourcePath": "C:\\projects\\TrunalOS-portfolio\\.local\\project-media\\raw\\recovery-analytics.png",
+    "sourceRepoPath": "docs/assets/analytics.png",
+    "sourceRef": "7455b2b2753aebc86b548bb5c0c171c098cc0051",
+    "sourceGitBlob": "1cb3540c9d3d83c9672061aae228171d19ce9c93",
+    "sourceSha256": "d4436ec3511f699259c98b3011cd959f1928db83b0788903e4aacbb8778beeee",
+    "originalSize": [
+      1783,
+      985
+    ],
+    "previewSize": [
+      1200,
+      663
+    ],
+    "fullSize": [
+      1783,
+      985
+    ],
+    "previewCrop": "no crop",
+    "files": [
+      {
+        "path": "public/project-media/recovery/analytics-full.webp",
+        "bytes": 77982
+      },
+      {
+        "path": "public/project-media/recovery/analytics-thumb.webp",
+        "bytes": 2302
+      },
+      {
+        "path": "public/project-media/recovery/analytics.png",
+        "bytes": 164033
+      },
+      {
+        "path": "public/project-media/recovery/analytics.webp",
+        "bytes": 37922
+      }
+    ],
+    "privacy": "Manually inspected: only synthetic/demo/role-alias data; no private contact, key, token or real customer records",
+    "publication": "Local integration authorized by owner; public release still requires owner approval"
+  },
+  {
+    "project": "cybertwin",
+    "name": "security-overview",
+    "sourcePath": "C:\\projects\\CN project\\docs\\screenshots\\overview.png",
+    "sourceRepoPath": "docs/screenshots/overview.png",
+    "sourceRef": "017af9f202730fde7102bfe90340b08c2d27982c",
+    "sourceGitBlob": "7b2b3d4296462ce1449a34d42911104267821493",
+    "sourceSha256": "41069c989bee138cc6c1877cb4eb3f69bd85b1ba2661e41673cf0ef5520821c9",
+    "originalSize": [
+      1264,
+      1880
+    ],
+    "previewSize": [
+      1200,
+      911
+    ],
+    "fullSize": [
+      1264,
+      1880
+    ],
+    "previewCrop": "original rectangle (0,0,1264,960); complete original available in enlarge view",
+    "files": [
+      {
+        "path": "public/project-media/cybertwin/security-overview-full.webp",
+        "bytes": 160138
+      },
+      {
+        "path": "public/project-media/cybertwin/security-overview-thumb.webp",
+        "bytes": 3138
+      },
+      {
+        "path": "public/project-media/cybertwin/security-overview.png",
+        "bytes": 448283
+      },
+      {
+        "path": "public/project-media/cybertwin/security-overview.webp",
+        "bytes": 61492
+      }
+    ],
+    "privacy": "Manually inspected: only synthetic/demo/role-alias data; no private contact, key, token or real customer records",
+    "publication": "Local integration authorized by owner; public release still requires owner approval"
+  },
+  {
+    "project": "cybertwin",
+    "name": "network-replay",
+    "sourcePath": "C:\\projects\\CN project\\docs\\screenshots\\cn-observed-network.png",
+    "sourceRepoPath": "docs/screenshots/cn-observed-network.png",
+    "sourceRef": "017af9f202730fde7102bfe90340b08c2d27982c",
+    "sourceGitBlob": "c65d9186465558a85d565a719d97eb650a3dfe93",
+    "sourceSha256": "79043a71cf789be0cab892489ac2c4ed65e2a60975eed6e81fb4a885696f0ae8",
+    "originalSize": [
+      1440,
+      1413
+    ],
+    "previewSize": [
+      1200,
+      1178
+    ],
+    "fullSize": [
+      1440,
+      1413
+    ],
+    "previewCrop": "no crop",
+    "files": [
+      {
+        "path": "public/project-media/cybertwin/network-replay-full.webp",
+        "bytes": 137780
+      },
+      {
+        "path": "public/project-media/cybertwin/network-replay-thumb.webp",
+        "bytes": 2390
+      },
+      {
+        "path": "public/project-media/cybertwin/network-replay.png",
+        "bytes": 405794
+      },
+      {
+        "path": "public/project-media/cybertwin/network-replay.webp",
+        "bytes": 91928
+      }
+    ],
+    "privacy": "Manually inspected: only synthetic/demo/role-alias data; no private contact, key, token or real customer records",
+    "publication": "Local integration authorized by owner; public release still requires owner approval"
+  },
+  {
+    "project": "anumitra",
+    "name": "action-desk",
+    "sourcePath": "C:\\projects\\sih\\Anumitra(SIH26262)\\docs\\evidence\\operations-2026-10-30\\full-3\\overview-1440.png",
+    "sourceRepoPath": "docs/evidence/operations-2026-10-30/full-3/overview-1440.png",
+    "sourceRef": "37984fad3b4983e7793a07c769d0fef1f59f2c66",
+    "sourceGitBlob": "712bd69337c1c0075aceada227c51db1e865c7ba",
+    "sourceSha256": "3385c43af7f6c14034ae4815b613cbb183ccc08259b9fe53872fe04ad349a5a9",
+    "originalSize": [
+      1440,
+      1789
+    ],
+    "previewSize": [
+      1200,
+      833
+    ],
+    "fullSize": [
+      1440,
+      1789
+    ],
+    "previewCrop": "original rectangle (0,0,1440,1000); complete original available in enlarge view",
+    "files": [
+      {
+        "path": "public/project-media/anumitra/action-desk-full.webp",
+        "bytes": 193662
+      },
+      {
+        "path": "public/project-media/anumitra/action-desk-thumb.webp",
+        "bytes": 3670
+      },
+      {
+        "path": "public/project-media/anumitra/action-desk.png",
+        "bytes": 351836
+      },
+      {
+        "path": "public/project-media/anumitra/action-desk.webp",
+        "bytes": 87504
+      }
+    ],
+    "privacy": "Manually inspected: only synthetic/demo/role-alias data; no private contact, key, token or real customer records",
+    "publication": "Local integration authorized by owner; public release still requires owner approval"
+  },
+  {
+    "project": "anumitra",
+    "name": "evc-planner",
+    "sourcePath": "C:\\projects\\sih\\Anumitra(SIH26262)\\docs\\evidence\\operations-2026-10-30\\full-3\\operations\\evc-after.png",
+    "sourceRepoPath": "docs/evidence/operations-2026-10-30/full-3/operations/evc-after.png",
+    "sourceRef": "37984fad3b4983e7793a07c769d0fef1f59f2c66",
+    "sourceGitBlob": "8ef2c7946c05451ad3b76841fa46597b879e3ff4",
+    "sourceSha256": "3964b3a3082c20561bf43445a71f30d0c9b513f024ba4f98d6271b6898c9b52f",
+    "originalSize": [
+      1440,
+      960
+    ],
+    "previewSize": [
+      1200,
+      800
+    ],
+    "fullSize": [
+      1440,
+      960
+    ],
+    "previewCrop": "no crop",
+    "files": [
+      {
+        "path": "public/project-media/anumitra/evc-planner-full.webp",
+        "bytes": 99732
+      },
+      {
+        "path": "public/project-media/anumitra/evc-planner-thumb.webp",
+        "bytes": 2680
+      },
+      {
+        "path": "public/project-media/anumitra/evc-planner.png",
+        "bytes": 256245
+      },
+      {
+        "path": "public/project-media/anumitra/evc-planner.webp",
+        "bytes": 62866
+      }
+    ],
+    "privacy": "Manually inspected: only synthetic/demo/role-alias data; no private contact, key, token or real customer records",
+    "publication": "Local integration authorized by owner; public release still requires owner approval"
+  },
+  {
+    "project": "resume",
+    "name": "upload-workspace",
+    "sourcePath": "C:\\projects\\TrunalOS-portfolio\\.local\\project-media\\raw\\resume-upload.png",
+    "sourceRepoPath": null,
+    "sourceRef": "5529bf987591c7c52702854544c54d78b3ed9cbf",
+    "sourceGitBlob": "9c3346f0b8cff38a3b6742ee3241c1c2c0030306",
+    "sourceSha256": "85b16c76ead1e8aca7ef8a432e3bff3c3bc12a3281d5f14c61ecd352f21b2d94",
+    "originalSize": [
+      1440,
+      1000
+    ],
+    "previewSize": [
+      1200,
+      833
+    ],
+    "fullSize": [
+      1440,
+      1000
+    ],
+    "previewCrop": "no crop",
+    "files": [
+      {
+        "path": "public/project-media/resume/upload-workspace-full.webp",
+        "bytes": 28448
+      },
+      {
+        "path": "public/project-media/resume/upload-workspace-thumb.webp",
+        "bytes": 974
+      },
+      {
+        "path": "public/project-media/resume/upload-workspace.png",
+        "bytes": 66842
+      },
+      {
+        "path": "public/project-media/resume/upload-workspace.webp",
+        "bytes": 20522
+      }
+    ],
+    "privacy": "Manually inspected: only synthetic/demo/role-alias data; no private contact, key, token or real customer records",
+    "publication": "Local integration authorized by owner; public release still requires owner approval"
+  }
+]

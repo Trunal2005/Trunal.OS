@@ -1,0 +1,3 @@
+PASS controlled upgrade acceptance [
+  'Actual résumé component tested in disposable harness with in-memory PDF fixture: desktop object, no-inline and mobile fallback, controls, focus trap/Escape/return; fixture never ships'
+]

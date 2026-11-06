@@ -1,0 +1,55 @@
+{
+  "at": "2026-11-05T11:57:11.983Z",
+  "commands": [
+    {
+      "command": "npm run typecheck",
+      "exitCode": 0,
+      "log": "typecheck.txt"
+    },
+    {
+      "command": "npm run lint",
+      "exitCode": 0,
+      "log": "lint.txt"
+    },
+    {
+      "command": "npm test",
+      "exitCode": 0,
+      "tests": 33,
+      "files": 7,
+      "log": "unit-tests.txt"
+    },
+    {
+      "command": "npm run build",
+      "exitCode": 0,
+      "warning": "Lazy 3D chunk exceeds 500 KB raw",
+      "log": "build.txt"
+    },
+    {
+      "command": "npm run test:browser",
+      "exitCode": 0,
+      "scope": "District regression plus media suite",
+      "log": "browser-command.txt"
+    },
+    {
+      "command": "node scripts/project-media-browser-test.mjs",
+      "exitCode": 0,
+      "scope": "Additional image-decode/paint capture recheck",
+      "log": "media-decode-recheck.txt"
+    },
+    {
+      "command": "node scripts/final-smoke.mjs",
+      "exitCode": 0,
+      "log": "final-smoke.txt"
+    },
+    {
+      "command": "node scripts/performance-test.mjs",
+      "exitCode": 0,
+      "log": "performance-command.txt"
+    },
+    {
+      "command": "node scripts/round3-output-audit.mjs",
+      "exitCode": 0,
+      "log": "output-audit.txt"
+    }
+  ]
+}

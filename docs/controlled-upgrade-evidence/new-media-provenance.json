@@ -1,0 +1,72 @@
+[
+  {
+    "project": "anumitra",
+    "name": "home",
+    "source": "C:/Users/TRUNAL PATIL/OneDrive/Pictures/Screenshots/Screenshot 2026-10-30 204451.png",
+    "sha256": "e493f8e19875148abff478f29b0944012a4b449e4e79c8fc6b8de1ea245c62e2",
+    "width": 1200,
+    "height": 702,
+    "fullWidth": 1560,
+    "fullHeight": 912
+  },
+  {
+    "project": "bi",
+    "name": "home",
+    "source": "C:/Users/TRUNAL PATIL/OneDrive/Pictures/Screenshots/Screenshot 2026-10-22 072812.png",
+    "sha256": "4239d0e7a84b62649fa9a1deebec27836bb5383a4b7070fe973e009fc7c50a19",
+    "width": 1200,
+    "height": 583,
+    "fullWidth": 1915,
+    "fullHeight": 930
+  },
+  {
+    "project": "recovery",
+    "name": "home",
+    "source": ".local/controlled-upgrade/recovery-home.png",
+    "sha256": "299a0ad70370b7740c74db5dec51cc9035a2a81058973a19deab531265b6621c",
+    "width": 1200,
+    "height": 663,
+    "fullWidth": 1783,
+    "fullHeight": 985
+  },
+  {
+    "project": "blue-cred",
+    "name": "homepage",
+    "source": ".local/controlled-upgrade/blue-homepage.png",
+    "sha256": "e880893f4ff67acdc0e578b61fe3adb6a2706edfa2409489dc18d106c7619040",
+    "width": 1200,
+    "height": 750,
+    "fullWidth": 1440,
+    "fullHeight": 900
+  },
+  {
+    "project": "blue-cred",
+    "name": "marketplace",
+    "source": ".local/controlled-upgrade/blue-marketplace.png",
+    "sha256": "840e36827e7ae7ae5a94961666af4abeeabb50dd8425370365ef5a26d81936c2",
+    "width": 1200,
+    "height": 750,
+    "fullWidth": 1440,
+    "fullHeight": 900
+  },
+  {
+    "project": "blue-cred",
+    "name": "impact",
+    "source": ".local/controlled-upgrade/blue-impact.png",
+    "sha256": "206008c4c0ca8073498b7d9ec07749ef4e15bf2a77068a0074f64510542f7676",
+    "width": 1200,
+    "height": 750,
+    "fullWidth": 1440,
+    "fullHeight": 900
+  },
+  {
+    "project": "blue-cred",
+    "name": "submit-project",
+    "source": ".local/controlled-upgrade/blue-submit-project.png",
+    "sha256": "2d82100e602a7e5078e442b409837d0b95d8ec89e7f7649ad668ff4ed79895d4",
+    "width": 1200,
+    "height": 917,
+    "fullWidth": 1440,
+    "fullHeight": 1100
+  }
+]

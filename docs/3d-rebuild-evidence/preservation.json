@@ -1,0 +1,13 @@
+{
+  "backup": ".local/backups/pre-immersive-20261105.zip",
+  "files": [
+    {
+      "path": "src/content/projects.ts",
+      "sha256": "3f9dfbae3cf42333a7baca35cde888c29d591a1aea01f156f30d4674a59fc2b6"
+    },
+    {
+      "path": "src/data/prs.generated.json",
+      "sha256": "a2c570e5cf1a354f165c43475b899081fa9d9c961d7464c1d8249ca89ee3dbf4"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+[
+  {
+    scenario: 'desktop-3d',
+    htmlReadyMs: 212,
+    viewReadyMs: 1954,
+    lcp: 876,
+    cls: 0,
+    sceneLoaded: true
+  },
+  {
+    scenario: 'mobile-index',
+    htmlReadyMs: 1993,
+    viewReadyMs: 2090,
+    lcp: 1704,
+    cls: 0,
+    sceneLoaded: false
+  },
+  {
+    scenario: 'data-saver-index',
+    htmlReadyMs: 152,
+    viewReadyMs: 156,
+    lcp: 180,
+    cls: 0,
+    sceneLoaded: false
+  },
+  {
+    scenario: 'low-memory-index',
+    htmlReadyMs: 187,
+    viewReadyMs: 202,
+    lcp: 188,
+    cls: 0,
+    sceneLoaded: false
+  }
+]

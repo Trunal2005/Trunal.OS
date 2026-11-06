@@ -1,0 +1,5 @@
+node_modules
+dist
+package-lock.json
+docs/evidence
+TRUNAL_OS_CODEX_MASTER_PROMPT.md
